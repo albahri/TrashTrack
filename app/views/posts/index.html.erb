@@ -1,0 +1,61 @@
+ <link href="http://cdnjs.cloudflare.com/ajax/libs/foundicons/3.0.0/foundation-icons.css" rel="stylesheet">
+
+<div class="row">
+<div class="small-12 columns">
+
+  <h3 class="form-style-9" >Listing posts</h3>
+  
+<% @posts.each do |post| %>
+
+<div class="row">
+<div class="medium-6 columns">
+<div class="profile-card">
+
+
+<%= render partial: 'viewer', locals: {info: post} %>
+
+ <div class="profile-info">
+
+<p>
+  <strong>Content:</strong>
+ <%= post.content ? post.content : "No content" %>
+</p>
+<p>
+  <strong>Rating:</strong>
+  <%= post.rating ? post.rating : "No rating"  %>
+</p>
+<p>
+  <strong>Image Path:</strong>
+  <%= post.image_path ? post.image_path :  "No image" %>
+</p>
+
+<p>
+  <strong>Address:</strong>
+ <%= post.address ? post.address :  "No address" %>
+</p>
+
+<p>
+  <strong>Latitude:</strong>
+  <%= post.latitude ? post.latitude :  "No latitude" %>
+</p>
+
+<p>
+  <strong>Longitude:</strong>
+   <%= post.longitude ? post.longitude :  "No longitude" %>
+
+</p>
+
+
+<p><%= link_to 'Show', post %> | <%= link_to 'Edit', edit_post_path(post) %> | <%= button_to 'Destroy', post, method: :delete, data: { confirm: 'Are you sure?' } %></p>
+
+</div>
+</div>
+</div>
+<% end %>
+</div>
+
+</div>
+
+
+
+
