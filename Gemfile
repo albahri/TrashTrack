@@ -21,10 +21,11 @@ gem 'oj'
 
 gem 'rocket_pants'
 
-# group :staging, :production do
-#   gem 'pg'
-#   gem 'rails_12factor'
-# end
+group :production do
+  gem 'pg','0.17.1'
+  gem 'rails_12factor'
+end
+
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 5.0'
 # Use Uglifier as compressor for JavaScript assets

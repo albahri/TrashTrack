@@ -1,0 +1,2236 @@
+
+.form-style-9{
+    max-width: 100%;
+    background: #FAFAFA;
+    padding: 10px;
+    margin: 30px auto;
+    box-shadow: 1px 1px 25px rgba(0, 0, 0, 0.35);
+    border-radius: 5px;
+    border: 6px solid #305A72;
+}
+.form-style-9 ul{
+    padding:0;
+    margin:0;
+    list-style:none;
+}
+.form-style-9 ul li{
+    display: block;
+    margin-bottom: 10px;
+    min-height: 35px;
+}
+.form-style-9 ul li  .field-style{
+    box-sizing: border-box; 
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box; 
+    padding: 8px;
+    outline: none;
+    border: 1px solid #B0CFE0;
+    -webkit-transition: all 0.30s ease-in-out;
+    -moz-transition: all 0.30s ease-in-out;
+    -ms-transition: all 0.30s ease-in-out;
+    -o-transition: all 0.30s ease-in-out;
+
+}.form-style-9 ul li  .field-style:focus{
+    box-shadow: 0 0 5px #B0CFE0;
+    border:1px solid #B0CFE0;
+}
+.form-style-9 ul li .field-split{
+    width: 49%;
+}
+.form-style-9 ul li .field-full{
+    width: 100%;
+}
+.form-style-9 ul li input.align-left{
+    float:left;
+}
+.form-style-9 ul li input.align-right{
+    float:right;
+}
+.form-style-9 ul li textarea{
+    width: 100%;
+    height: 100px;
+}
+.form-style-9 ul li input[type="button"], 
+.form-style-9 ul li input[type="submit"] {
+    -moz-box-shadow: inset 0px 1px 0px 0px #3985B1;
+    -webkit-box-shadow: inset 0px 1px 0px 0px #3985B1;
+    box-shadow: inset 0px 1px 0px 0px #3985B1;
+    background-color: #216288;
+    border: 1px solid #17445E;
+    display: inline-block;
+    cursor: pointer;
+    color: #FFFFFF;
+    padding: 8px 18px;
+    text-decoration: none;
+    font: 12px Arial, Helvetica, sans-serif;
+}
+.form-style-9 ul li input[type="button"]:hover, 
+.form-style-9 ul li input[type="submit"]:hover {
+    background: linear-gradient(to bottom, #2D77A2 5%, #337DA8 100%);
+    background-color: #28739E;
+}
+
+.form-style-8{
+    font-family: 'Open Sans Condensed', arial, sans;
+    width: 100%;
+    padding: 10px;
+    background: #FFFFFF;
+    margin: 20px auto;
+    box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.22);
+    -moz-box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.22);
+    -webkit-box-shadow:  0px 0px 15px rgba(0, 0, 0, 0.22);
+
+}
+
+
+.form-style-10{
+    width:100%;
+    padding:10px;
+    margin:20px auto;
+    background: #FFF;
+    border-radius: 15px;
+    -webkit-border-radius:10px;
+    -moz-border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.13);
+    -moz-box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.13);
+    -webkit-box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.13);
+}
+.form-style-10 .inner-wrap{
+    padding: 10px;
+    background: #f5f5f0;
+    border-radius: 6px;
+    margin-bottom: 15px;
+}
+.form-style-10 h1{
+    background: #2A88AD;
+    padding: 10px 10px 10px 10px;
+    margin: -20px -20px 20px -20px;
+    border-radius: 10px 10px 0 0;
+    -webkit-border-radius: 10px 10px 0 0;
+    -moz-border-radius: 10px 10px 0 0;
+    color: #fff;
+    text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.12);
+    font: normal 18px 'Bitter', serif;
+    -moz-box-shadow: inset 0px 2px 2px 0px rgba(255, 255, 255, 0.17);
+    -webkit-box-shadow: inset 0px 2px 2px 0px rgba(255, 255, 255, 0.17);
+    box-shadow: inset 0px 2px 2px 0px rgba(255, 255, 255, 0.17);
+    border: 1px solid #257C9E;
+}
+.form-style-10 h1 > span{
+    display: block;
+    margin-top: 2px;
+    font: 13px Arial, Helvetica, sans-serif;
+}
+.form-style-10 label{
+    display: block;
+    font: 13px Arial, Helvetica, sans-serif;
+    color: #888;
+    margin-bottom: 15px;
+}
+.form-style-10 input[type="text"],
+.form-style-10 input[type="date"],
+.form-style-10 input[type="datetime"],
+.form-style-10 input[type="email"],
+.form-style-10 input[type="number"],
+.form-style-10 input[type="search"],
+.form-style-10 input[type="time"],
+.form-style-10 input[type="url"],
+.form-style-10 input[type="password"],
+.form-style-10 textarea,
+.form-style-10 select {
+    display: block;
+    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    width: 100%;
+    padding: 8px;
+    border-radius: 6px;
+    -webkit-border-radius:6px;
+    -moz-border-radius:6px;
+    border: 2px solid #fff;
+    box-shadow: inset 0px 1px 1px rgba(0, 0, 0, 0.33);
+    -moz-box-shadow: inset 0px 1px 1px rgba(0, 0, 0, 0.33);
+    -webkit-box-shadow: inset 0px 1px 1px rgba(0, 0, 0, 0.33);
+}
+
+.form-style-10 .section{
+    font: normal 20px 'Bitter', serif;
+    color: #2A88AD;
+    margin-bottom: 5px;
+}
+.form-style-10 .section span {
+    background: #2A88AD;
+    padding: 5px 10px 5px 10px;
+    position: absolute;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    border: 4px solid #fff;
+    font-size: 14px;
+    margin-left: -45px;
+    color: #fff;
+    margin-top: -3px;
+}
+.form-style-10 input[type="button"], 
+.form-style-10 input[type="submit"]{
+    background: #2A88AD;
+    padding: 8px 20px 8px 20px;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    color: #fff;
+    text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.12);
+    font: normal 30px 'Bitter', serif;
+    -moz-box-shadow: inset 0px 2px 2px 0px rgba(255, 255, 255, 0.17);
+    -webkit-box-shadow: inset 0px 2px 2px 0px rgba(255, 255, 255, 0.17);
+    box-shadow: inset 0px 2px 2px 0px rgba(255, 255, 255, 0.17);
+    border: 1px solid #257C9E;
+    font-size: 15px;
+}
+.form-style-10 input[type="button"]:hover, 
+.form-style-10 input[type="submit"]:hover{
+    background: #2A6881;
+    -moz-box-shadow: inset 0px 2px 2px 0px rgba(255, 255, 255, 0.28);
+    -webkit-box-shadow: inset 0px 2px 2px 0px rgba(255, 255, 255, 0.28);
+    box-shadow: inset 0px 2px 2px 0px rgba(255, 255, 255, 0.28);
+}
+.form-style-10 .privacy-policy{
+    float: right;
+    width: 250px;
+    font: 12px Arial, Helvetica, sans-serif;
+    color: #4D4D4D;
+    margin-top: 10px;
+    text-align: right;
+}
+
+<style type="text/css">
+.form-style-3{
+    max-width: 50%;
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+.form-style-3 label{
+    display:block;
+    margin-bottom: 10px;
+}
+.form-style-3 label > span{
+    float: left;
+    width: 100px;
+    color: #F072A9;
+    font-weight: bold;
+    font-size: 13px;
+    text-shadow: 1px 1px 1px #fff;
+}
+.form-style-3 fieldset{
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    margin: 0px 0px 10px 0px;
+    border: 1px solid #FFD2D2;
+    padding: 20px;
+    background: #eeeedd;
+    box-shadow: inset 0px 0px 15px #c3c388;
+    -moz-box-shadow: inset 0px 0px 15px #c3c388;
+    -webkit-box-shadow: inset 0px 0px 15px #c3c388;
+}
+.form-style-3 fieldset legend{
+    color: #FFA0C9;
+    border-top: 1px solid #FFD2D2;
+    border-left: 1px solid #FFD2D2;
+    border-right: 1px solid #FFD2D2;
+    border-radius: 5px 5px 0px 0px;
+    -webkit-border-radius: 5px 5px 0px 0px;
+    -moz-border-radius: 5px 5px 0px 0px;
+    background: #FFF4F4;
+    padding: 0px 8px 3px 8px;
+    box-shadow: -0px -1px 2px #F1F1F1;
+    -moz-box-shadow:-0px -1px 2px #F1F1F1;
+    -webkit-box-shadow:-0px -1px 2px #F1F1F1;
+    font-weight: normal;
+    font-size: 12px;
+}
+.form-style-3 textarea{
+    width:250px;
+    height:100px;
+}
+.form-style-3 input[type=text],
+.form-style-3 input[type=date],
+.form-style-3 input[type=datetime],
+.form-style-3 input[type=number],
+.form-style-3 input[type=search],
+.form-style-3 input[type=time],
+.form-style-3 input[type=url],
+.form-style-3 input[type=email],
+.form-style-3 select, 
+.form-style-3 textarea{
+    border-radius: 3px;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border: 1px solid #FFC2DC;
+    outline: none;
+    color: #F072A9;
+    padding: 5px 8px 5px 8px;
+    box-shadow: inset 1px 1px 4px #FFD5E7;
+    -moz-box-shadow: inset 1px 1px 4px #FFD5E7;
+    -webkit-box-shadow: inset 1px 1px 4px #FFD5E7;
+    background: #FFEFF6;
+    width:50%;
+}
+.form-style-3  input[type=submit],
+.form-style-3  input[type=button]{
+    background: #EB3B88;
+    border: 1px solid #C94A81;
+    padding: 5px 15px 5px 15px;
+    color: #FFCBE2;
+    box-shadow: inset -1px -1px 3px #FF62A7;
+    -moz-box-shadow: inset -1px -1px 3px #FF62A7;
+    -webkit-box-shadow: inset -1px -1px 3px #FF62A7;
+    border-radius: 3px;
+    border-radius: 3px;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;    
+    font-weight: bold;
+}
+.required{
+    color:red;
+    font-weight:normal;
+}
+</style>
+/* Accessibility - hides the forward slash */
+/* line 130, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_breadcrumbs.scss */
+[aria-label="breadcrumbs"] [aria-hidden="true"]:after {
+  content: "/";
+}
+
+/* line 223, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_icon-bar.scss */
+.icon-bar.two-up .item {
+  width: 50%;
+}
+/* line 224, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_icon-bar.scss */
+.icon-bar.two-up.vertical .item, .icon-bar.two-up.small-vertical .item {
+  width: auto;
+}
+@media only screen and (min-width: 40.063em) {
+  /* line 225, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_icon-bar.scss */
+  .icon-bar.two-up.medium-vertical .item {
+    width: auto;
+  }
+}
+@media only screen and (min-width: 64.063em) {
+  /* line 230, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_icon-bar.scss */
+  .icon-bar.two-up.large-vertical .item {
+    width: auto;
+  }
+}
+/* line 237, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_icon-bar.scss */
+.icon-bar.three-up .item {
+  width: 33.3333%;
+}
+/* line 238, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_icon-bar.scss */
+.icon-bar.three-up.vertical .item, .icon-bar.three-up.small-vertical .item {
+  width: auto;
+}
+@media only screen and (min-width: 40.063em) {
+  /* line 239, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_icon-bar.scss */
+  .icon-bar.three-up.medium-vertical .item {
+    width: auto;
+  }
+}
+@media only screen and (min-width: 64.063em) {
+  /* line 244, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_icon-bar.scss */
+  .icon-bar.three-up.large-vertical .item {
+    width: auto;
+  }
+}
+/* line 251, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_icon-bar.scss */
+.icon-bar.four-up .item {
+  width: 25%;
+}
+/* line 252, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_icon-bar.scss */
+.icon-bar.four-up.vertical .item, .icon-bar.four-up.small-vertical .item {
+  width: auto;
+}
+@media only screen and (min-width: 40.063em) {
+  /* line 253, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_icon-bar.scss */
+  .icon-bar.four-up.medium-vertical .item {
+    width: auto;
+  }
+}
+@media only screen and (min-width: 64.063em) {
+  /* line 258, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_icon-bar.scss */
+  .icon-bar.four-up.large-vertical .item {
+    width: auto;
+  }
+}
+/* line 265, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_icon-bar.scss */
+.icon-bar.five-up .item {
+  width: 20%;
+}
+/* line 266, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_icon-bar.scss */
+.icon-bar.five-up.vertical .item, .icon-bar.five-up.small-vertical .item {
+  width: auto;
+}
+@media only screen and (min-width: 40.063em) {
+  /* line 267, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_icon-bar.scss */
+  .icon-bar.five-up.medium-vertical .item {
+    width: auto;
+  }
+}
+@media only screen and (min-width: 64.063em) {
+  /* line 272, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_icon-bar.scss */
+  .icon-bar.five-up.large-vertical .item {
+    width: auto;
+  }
+}
+/* line 279, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_icon-bar.scss */
+.icon-bar.six-up .item {
+  width: 16.66667%;
+}
+/* line 280, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_icon-bar.scss */
+.icon-bar.six-up.vertical .item, .icon-bar.six-up.small-vertical .item {
+  width: auto;
+}
+@media only screen and (min-width: 40.063em) {
+  /* line 281, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_icon-bar.scss */
+  .icon-bar.six-up.medium-vertical .item {
+    width: auto;
+  }
+}
+@media only screen and (min-width: 64.063em) {
+  /* line 286, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_icon-bar.scss */
+  .icon-bar.six-up.large-vertical .item {
+    width: auto;
+  }
+}
+
+/* line 481, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_offcanvas.scss */
+.left-submenu {
+  -webkit-backface-visibility: hidden;
+  width: 15.625rem;
+  top: 0;
+  bottom: 0;
+  position: absolute;
+  margin: 0;
+  overflow-x: hidden;
+  overflow-y: auto;
+  background: #333333;
+  z-index: 1002;
+  box-sizing: content-box;
+  -webkit-overflow-scrolling: touch;
+  -ms-transform: translate(-100%, 0);
+  -webkit-transform: translate3d(-100%, 0, 0);
+  -moz-transform: translate3d(-100%, 0, 0);
+  -ms-transform: translate3d(-100%, 0, 0);
+  -o-transform: translate3d(-100%, 0, 0);
+  transform: translate3d(-100%, 0, 0);
+  left: 0;
+  -webkit-transition: -webkit-transform 500ms ease;
+  -moz-transition: -moz-transform 500ms ease;
+  -ms-transition: -ms-transform 500ms ease;
+  -o-transition: -o-transform 500ms ease;
+  transition: transform 500ms ease;
+}
+/* line 394, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_offcanvas.scss */
+.left-submenu * {
+  -webkit-backface-visibility: hidden;
+}
+/* line 421, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_offcanvas.scss */
+.left-submenu .back > a {
+  padding: 0.3rem 0.9375rem;
+  color: #999999;
+  text-transform: uppercase;
+  font-weight: bold;
+  background: #444;
+  border-top: 1px solid #5e5e5e;
+  border-bottom: none;
+  margin: 0;
+}
+/* line 429, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_offcanvas.scss */
+.left-submenu .back > a:hover {
+  background: #303030;
+  border-top: 1px solid #5e5e5e;
+  border-bottom: none;
+}
+/* line 452, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_offcanvas.scss */
+.left-submenu .back > a:before {
+  content: "\AB";
+  margin-right: 0.5rem;
+  display: inline;
+}
+/* line 483, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_offcanvas.scss */
+.left-submenu.move-right {
+  -ms-transform: translate(0%, 0);
+  -webkit-transform: translate3d(0%, 0, 0);
+  -moz-transform: translate3d(0%, 0, 0);
+  -ms-transform: translate3d(0%, 0, 0);
+  -o-transform: translate3d(0%, 0, 0);
+  transform: translate3d(0%, 0, 0);
+}
+
+/* line 488, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_offcanvas.scss */
+.right-submenu {
+  -webkit-backface-visibility: hidden;
+  width: 15.625rem;
+  top: 0;
+  bottom: 0;
+  position: absolute;
+  margin: 0;
+  overflow-x: hidden;
+  overflow-y: auto;
+  background: #333333;
+  z-index: 1002;
+  box-sizing: content-box;
+  -webkit-overflow-scrolling: touch;
+  -ms-transform: translate(100%, 0);
+  -webkit-transform: translate3d(100%, 0, 0);
+  -moz-transform: translate3d(100%, 0, 0);
+  -ms-transform: translate3d(100%, 0, 0);
+  -o-transform: translate3d(100%, 0, 0);
+  transform: translate3d(100%, 0, 0);
+  right: 0;
+  -webkit-transition: -webkit-transform 500ms ease;
+  -moz-transition: -moz-transform 500ms ease;
+  -ms-transition: -ms-transform 500ms ease;
+  -o-transition: -o-transform 500ms ease;
+  transition: transform 500ms ease;
+}
+/* line 394, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_offcanvas.scss */
+.right-submenu * {
+  -webkit-backface-visibility: hidden;
+}
+/* line 421, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_offcanvas.scss */
+.right-submenu .back > a {
+  padding: 0.3rem 0.9375rem;
+  color: #999999;
+  text-transform: uppercase;
+  font-weight: bold;
+  background: #444;
+  border-top: 1px solid #5e5e5e;
+  border-bottom: none;
+  margin: 0;
+}
+/* line 429, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_offcanvas.scss */
+.right-submenu .back > a:hover {
+  background: #303030;
+  border-top: 1px solid #5e5e5e;
+  border-bottom: none;
+}
+/* line 441, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_offcanvas.scss */
+.right-submenu .back > a:after {
+  content: "\BB";
+  margin-left: 0.5rem;
+  display: inline;
+}
+/* line 490, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_offcanvas.scss */
+.right-submenu.move-left {
+  -ms-transform: translate(0%, 0);
+  -webkit-transform: translate3d(0%, 0, 0);
+  -moz-transform: translate3d(0%, 0, 0);
+  -ms-transform: translate3d(0%, 0, 0);
+  -o-transform: translate3d(0%, 0, 0);
+  transform: translate3d(0%, 0, 0);
+}
+
+/* line 503, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_offcanvas.scss */
+.left-off-canvas-menu ul.off-canvas-list li.has-submenu > a:after {
+  content: "\BB";
+  margin-left: 0.5rem;
+  display: inline;
+}
+
+/* line 506, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_offcanvas.scss */
+.right-off-canvas-menu ul.off-canvas-list li.has-submenu > a:before {
+  content: "\AB";
+  margin-right: 0.5rem;
+  display: inline;
+}
+
+/* small displays */
+@media only screen {
+  /* line 244, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_visibility.scss */
+  .show-for-small-only, .show-for-small-up, .show-for-small, .show-for-small-down, .hide-for-medium-only, .hide-for-medium-up, .hide-for-medium, .show-for-medium-down, .hide-for-large-only, .hide-for-large-up, .hide-for-large, .show-for-large-down, .hide-for-xlarge-only, .hide-for-xlarge-up, .hide-for-xlarge, .show-for-xlarge-down, .hide-for-xxlarge-only, .hide-for-xxlarge-up, .hide-for-xxlarge, .show-for-xxlarge-down {
+    display: inherit !important;
+  }
+
+  /* line 247, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_visibility.scss */
+  .hide-for-small-only, .hide-for-small-up, .hide-for-small, .hide-for-small-down, .show-for-medium-only, .show-for-medium-up, .show-for-medium, .hide-for-medium-down, .show-for-large-only, .show-for-large-up, .show-for-large, .hide-for-large-down, .show-for-xlarge-only, .show-for-xlarge-up, .show-for-xlarge, .hide-for-xlarge-down, .show-for-xxlarge-only, .show-for-xxlarge-up, .show-for-xxlarge, .hide-for-xxlarge-down {
+    display: none !important;
+  }
+
+  /* line 251, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_visibility.scss */
+  .visible-for-small-only, .visible-for-small-up, .visible-for-small, .visible-for-small-down, .hidden-for-medium-only, .hidden-for-medium-up, .hidden-for-medium, .visible-for-medium-down, .hidden-for-large-only, .hidden-for-large-up, .hidden-for-large, .visible-for-large-down, .hidden-for-xlarge-only, .hidden-for-xlarge-up, .hidden-for-xlarge, .visible-for-xlarge-down, .hidden-for-xxlarge-only, .hidden-for-xxlarge-up, .hidden-for-xxlarge, .visible-for-xxlarge-down {
+    position: static !important;
+    height: auto;
+    width: auto;
+    overflow: visible;
+    clip: auto;
+  }
+
+  /* line 254, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_visibility.scss */
+  .hidden-for-small-only, .hidden-for-small-up, .hidden-for-small, .hidden-for-small-down, .visible-for-medium-only, .visible-for-medium-up, .visible-for-medium, .hidden-for-medium-down, .visible-for-large-only, .visible-for-large-up, .visible-for-large, .hidden-for-large-down, .visible-for-xlarge-only, .visible-for-xlarge-up, .visible-for-xlarge, .hidden-for-xlarge-down, .visible-for-xxlarge-only, .visible-for-xxlarge-up, .visible-for-xxlarge, .hidden-for-xxlarge-down {
+    position: absolute !important;
+    height: 1px;
+    width: 1px;
+    overflow: hidden;
+    clip: rect(1px, 1px, 1px, 1px);
+  }
+
+  /* line 259, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_visibility.scss */
+  table.show-for-small-only, table.show-for-small-up, table.show-for-small, table.show-for-small-down, table.hide-for-medium-only, table.hide-for-medium-up, table.hide-for-medium, table.show-for-medium-down, table.hide-for-large-only, table.hide-for-large-up, table.hide-for-large, table.show-for-large-down, table.hide-for-xlarge-only, table.hide-for-xlarge-up, table.hide-for-xlarge, table.show-for-xlarge-down, table.hide-for-xxlarge-only, table.hide-for-xxlarge-up, table.hide-for-xxlarge, table.show-for-xxlarge-down {
+    display: table;
+  }
+
+  /* line 262, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_visibility.scss */
+  thead.show-for-small-only, thead.show-for-small-up, thead.show-for-small, thead.show-for-small-down, thead.hide-for-medium-only, thead.hide-for-medium-up, thead.hide-for-medium, thead.show-for-medium-down, thead.hide-for-large-only, thead.hide-for-large-up, thead.hide-for-large, thead.show-for-large-down, thead.hide-for-xlarge-only, thead.hide-for-xlarge-up, thead.hide-for-xlarge, thead.show-for-xlarge-down, thead.hide-for-xxlarge-only, thead.hide-for-xxlarge-up, thead.hide-for-xxlarge, thead.show-for-xxlarge-down {
+    display: table-header-group !important;
+  }
+
+  /* line 265, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_visibility.scss */
+  tbody.show-for-small-only, tbody.show-for-small-up, tbody.show-for-small, tbody.show-for-small-down, tbody.hide-for-medium-only, tbody.hide-for-medium-up, tbody.hide-for-medium, tbody.show-for-medium-down, tbody.hide-for-large-only, tbody.hide-for-large-up, tbody.hide-for-large, tbody.show-for-large-down, tbody.hide-for-xlarge-only, tbody.hide-for-xlarge-up, tbody.hide-for-xlarge, tbody.show-for-xlarge-down, tbody.hide-for-xxlarge-only, tbody.hide-for-xxlarge-up, tbody.hide-for-xxlarge, tbody.show-for-xxlarge-down {
+    display: table-row-group !important;
+  }
+
+  /* line 268, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_visibility.scss */
+  tr.show-for-small-only, tr.show-for-small-up, tr.show-for-small, tr.show-for-small-down, tr.hide-for-medium-only, tr.hide-for-medium-up, tr.hide-for-medium, tr.show-for-medium-down, tr.hide-for-large-only, tr.hide-for-large-up, tr.hide-for-large, tr.show-for-large-down, tr.hide-for-xlarge-only, tr.hide-for-xlarge-up, tr.hide-for-xlarge, tr.show-for-xlarge-down, tr.hide-for-xxlarge-only, tr.hide-for-xxlarge-up, tr.hide-for-xxlarge, tr.show-for-xxlarge-down {
+    display: table-row !important;
+  }
+
+  /* line 271, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_visibility.scss */
+  th.show-for-small-only, td.show-for-small-only, th.show-for-small-up, td.show-for-small-up, th.show-for-small, td.show-for-small, th.show-for-small-down, td.show-for-small-down, th.hide-for-medium-only, td.hide-for-medium-only, th.hide-for-medium-up, td.hide-for-medium-up, th.hide-for-medium, td.hide-for-medium, th.show-for-medium-down, td.show-for-medium-down, th.hide-for-large-only, td.hide-for-large-only, th.hide-for-large-up, td.hide-for-large-up, th.hide-for-large, td.hide-for-large, th.show-for-large-down, td.show-for-large-down, th.hide-for-xlarge-only, td.hide-for-xlarge-only, th.hide-for-xlarge-up, td.hide-for-xlarge-up, th.hide-for-xlarge, td.hide-for-xlarge, th.show-for-xlarge-down, td.show-for-xlarge-down, th.hide-for-xxlarge-only, td.hide-for-xxlarge-only, th.hide-for-xxlarge-up, td.hide-for-xxlarge-up, th.hide-for-xxlarge, td.hide-for-xxlarge, th.show-for-xxlarge-down, td.show-for-xxlarge-down {
+    display: table-cell !important;
+  }
+}
+/* medium displays */
+@media only screen and (min-width: 40.063em) {
+  /* line 244, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_visibility.scss */
+  .hide-for-small-only, .show-for-small-up, .hide-for-small, .hide-for-small-down, .show-for-medium-only, .show-for-medium-up, .show-for-medium, .show-for-medium-down, .hide-for-large-only, .hide-for-large-up, .hide-for-large, .show-for-large-down, .hide-for-xlarge-only, .hide-for-xlarge-up, .hide-for-xlarge, .show-for-xlarge-down, .hide-for-xxlarge-only, .hide-for-xxlarge-up, .hide-for-xxlarge, .show-for-xxlarge-down {
+    display: inherit !important;
+  }
+
+  /* line 247, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_visibility.scss */
+  .show-for-small-only, .hide-for-small-up, .show-for-small, .show-for-small-down, .hide-for-medium-only, .hide-for-medium-up, .hide-for-medium, .hide-for-medium-down, .show-for-large-only, .show-for-large-up, .show-for-large, .hide-for-large-down, .show-for-xlarge-only, .show-for-xlarge-up, .show-for-xlarge, .hide-for-xlarge-down, .show-for-xxlarge-only, .show-for-xxlarge-up, .show-for-xxlarge, .hide-for-xxlarge-down {
+    display: none !important;
+  }
+
+  /* line 251, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_visibility.scss */
+  .hidden-for-small-only, .visible-for-small-up, .hidden-for-small, .hidden-for-small-down, .visible-for-medium-only, .visible-for-medium-up, .visible-for-medium, .visible-for-medium-down, .hidden-for-large-only, .hidden-for-large-up, .hidden-for-large, .visible-for-large-down, .hidden-for-xlarge-only, .hidden-for-xlarge-up, .hidden-for-xlarge, .visible-for-xlarge-down, .hidden-for-xxlarge-only, .hidden-for-xxlarge-up, .hidden-for-xxlarge, .visible-for-xxlarge-down {
+    position: static !important;
+    height: auto;
+    width: auto;
+    overflow: visible;
+    clip: auto;
+  }
+
+  /* line 254, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_visibility.scss */
+  .visible-for-small-only, .hidden-for-small-up, .visible-for-small, .visible-for-small-down, .hidden-for-medium-only, .hidden-for-medium-up, .hidden-for-medium, .hidden-for-medium-down, .visible-for-large-only, .visible-for-large-up, .visible-for-large, .hidden-for-large-down, .visible-for-xlarge-only, .visible-for-xlarge-up, .visible-for-xlarge, .hidden-for-xlarge-down, .visible-for-xxlarge-only, .visible-for-xxlarge-up, .visible-for-xxlarge, .hidden-for-xxlarge-down {
+    position: absolute !important;
+    height: 1px;
+    width: 1px;
+    overflow: hidden;
+    clip: rect(1px, 1px, 1px, 1px);
+  }
+
+  /* line 259, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_visibility.scss */
+  table.hide-for-small-only, table.show-for-small-up, table.hide-for-small, table.hide-for-small-down, table.show-for-medium-only, table.show-for-medium-up, table.show-for-medium, table.show-for-medium-down, table.hide-for-large-only, table.hide-for-large-up, table.hide-for-large, table.show-for-large-down, table.hide-for-xlarge-only, table.hide-for-xlarge-up, table.hide-for-xlarge, table.show-for-xlarge-down, table.hide-for-xxlarge-only, table.hide-for-xxlarge-up, table.hide-for-xxlarge, table.show-for-xxlarge-down {
+    display: table;
+  }
+
+  /* line 262, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_visibility.scss */
+  thead.hide-for-small-only, thead.show-for-small-up, thead.hide-for-small, thead.hide-for-small-down, thead.show-for-medium-only, thead.show-for-medium-up, thead.show-for-medium, thead.show-for-medium-down, thead.hide-for-large-only, thead.hide-for-large-up, thead.hide-for-large, thead.show-for-large-down, thead.hide-for-xlarge-only, thead.hide-for-xlarge-up, thead.hide-for-xlarge, thead.show-for-xlarge-down, thead.hide-for-xxlarge-only, thead.hide-for-xxlarge-up, thead.hide-for-xxlarge, thead.show-for-xxlarge-down {
+    display: table-header-group !important;
+  }
+
+  /* line 265, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_visibility.scss */
+  tbody.hide-for-small-only, tbody.show-for-small-up, tbody.hide-for-small, tbody.hide-for-small-down, tbody.show-for-medium-only, tbody.show-for-medium-up, tbody.show-for-medium, tbody.show-for-medium-down, tbody.hide-for-large-only, tbody.hide-for-large-up, tbody.hide-for-large, tbody.show-for-large-down, tbody.hide-for-xlarge-only, tbody.hide-for-xlarge-up, tbody.hide-for-xlarge, tbody.show-for-xlarge-down, tbody.hide-for-xxlarge-only, tbody.hide-for-xxlarge-up, tbody.hide-for-xxlarge, tbody.show-for-xxlarge-down {
+    display: table-row-group !important;
+  }
+
+  /* line 268, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_visibility.scss */
+  tr.hide-for-small-only, tr.show-for-small-up, tr.hide-for-small, tr.hide-for-small-down, tr.show-for-medium-only, tr.show-for-medium-up, tr.show-for-medium, tr.show-for-medium-down, tr.hide-for-large-only, tr.hide-for-large-up, tr.hide-for-large, tr.show-for-large-down, tr.hide-for-xlarge-only, tr.hide-for-xlarge-up, tr.hide-for-xlarge, tr.show-for-xlarge-down, tr.hide-for-xxlarge-only, tr.hide-for-xxlarge-up, tr.hide-for-xxlarge, tr.show-for-xxlarge-down {
+    display: table-row !important;
+  }
+
+  /* line 271, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_visibility.scss */
+  th.hide-for-small-only, td.hide-for-small-only, th.show-for-small-up, td.show-for-small-up, th.hide-for-small, td.hide-for-small, th.hide-for-small-down, td.hide-for-small-down, th.show-for-medium-only, td.show-for-medium-only, th.show-for-medium-up, td.show-for-medium-up, th.show-for-medium, td.show-for-medium, th.show-for-medium-down, td.show-for-medium-down, th.hide-for-large-only, td.hide-for-large-only, th.hide-for-large-up, td.hide-for-large-up, th.hide-for-large, td.hide-for-large, th.show-for-large-down, td.show-for-large-down, th.hide-for-xlarge-only, td.hide-for-xlarge-only, th.hide-for-xlarge-up, td.hide-for-xlarge-up, th.hide-for-xlarge, td.hide-for-xlarge, th.show-for-xlarge-down, td.show-for-xlarge-down, th.hide-for-xxlarge-only, td.hide-for-xxlarge-only, th.hide-for-xxlarge-up, td.hide-for-xxlarge-up, th.hide-for-xxlarge, td.hide-for-xxlarge, th.show-for-xxlarge-down, td.show-for-xxlarge-down {
+    display: table-cell !important;
+  }
+}
+/* large displays */
+@media only screen and (min-width: 64.063em) {
+  /* line 244, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_visibility.scss */
+  .hide-for-small-only, .show-for-small-up, .hide-for-small, .hide-for-small-down, .hide-for-medium-only, .show-for-medium-up, .hide-for-medium, .hide-for-medium-down, .show-for-large-only, .show-for-large-up, .show-for-large, .show-for-large-down, .hide-for-xlarge-only, .hide-for-xlarge-up, .hide-for-xlarge, .show-for-xlarge-down, .hide-for-xxlarge-only, .hide-for-xxlarge-up, .hide-for-xxlarge, .show-for-xxlarge-down {
+    display: inherit !important;
+  }
+
+  /* line 247, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_visibility.scss */
+  .show-for-small-only, .hide-for-small-up, .show-for-small, .show-for-small-down, .show-for-medium-only, .hide-for-medium-up, .show-for-medium, .show-for-medium-down, .hide-for-large-only, .hide-for-large-up, .hide-for-large, .hide-for-large-down, .show-for-xlarge-only, .show-for-xlarge-up, .show-for-xlarge, .hide-for-xlarge-down, .show-for-xxlarge-only, .show-for-xxlarge-up, .show-for-xxlarge, .hide-for-xxlarge-down {
+    display: none !important;
+  }
+
+  /* line 251, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_visibility.scss */
+  .hidden-for-small-only, .visible-for-small-up, .hidden-for-small, .hidden-for-small-down, .hidden-for-medium-only, .visible-for-medium-up, .hidden-for-medium, .hidden-for-medium-down, .visible-for-large-only, .visible-for-large-up, .visible-for-large, .visible-for-large-down, .hidden-for-xlarge-only, .hidden-for-xlarge-up, .hidden-for-xlarge, .visible-for-xlarge-down, .hidden-for-xxlarge-only, .hidden-for-xxlarge-up, .hidden-for-xxlarge, .visible-for-xxlarge-down {
+    position: static !important;
+    height: auto;
+    width: auto;
+    overflow: visible;
+    clip: auto;
+  }
+
+  /* line 254, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_visibility.scss */
+  .visible-for-small-only, .hidden-for-small-up, .visible-for-small, .visible-for-small-down, .visible-for-medium-only, .hidden-for-medium-up, .visible-for-medium, .visible-for-medium-down, .hidden-for-large-only, .hidden-for-large-up, .hidden-for-large, .hidden-for-large-down, .visible-for-xlarge-only, .visible-for-xlarge-up, .visible-for-xlarge, .hidden-for-xlarge-down, .visible-for-xxlarge-only, .visible-for-xxlarge-up, .visible-for-xxlarge, .hidden-for-xxlarge-down {
+    position: absolute !important;
+    height: 1px;
+    width: 1px;
+    overflow: hidden;
+    clip: rect(1px, 1px, 1px, 1px);
+  }
+
+  /* line 259, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_visibility.scss */
+  table.hide-for-small-only, table.show-for-small-up, table.hide-for-small, table.hide-for-small-down, table.hide-for-medium-only, table.show-for-medium-up, table.hide-for-medium, table.hide-for-medium-down, table.show-for-large-only, table.show-for-large-up, table.show-for-large, table.show-for-large-down, table.hide-for-xlarge-only, table.hide-for-xlarge-up, table.hide-for-xlarge, table.show-for-xlarge-down, table.hide-for-xxlarge-only, table.hide-for-xxlarge-up, table.hide-for-xxlarge, table.show-for-xxlarge-down {
+    display: table;
+  }
+
+  /* line 262, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_visibility.scss */
+  thead.hide-for-small-only, thead.show-for-small-up, thead.hide-for-small, thead.hide-for-small-down, thead.hide-for-medium-only, thead.show-for-medium-up, thead.hide-for-medium, thead.hide-for-medium-down, thead.show-for-large-only, thead.show-for-large-up, thead.show-for-large, thead.show-for-large-down, thead.hide-for-xlarge-only, thead.hide-for-xlarge-up, thead.hide-for-xlarge, thead.show-for-xlarge-down, thead.hide-for-xxlarge-only, thead.hide-for-xxlarge-up, thead.hide-for-xxlarge, thead.show-for-xxlarge-down {
+    display: table-header-group !important;
+  }
+
+  /* line 265, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_visibility.scss */
+  tbody.hide-for-small-only, tbody.show-for-small-up, tbody.hide-for-small, tbody.hide-for-small-down, tbody.hide-for-medium-only, tbody.show-for-medium-up, tbody.hide-for-medium, tbody.hide-for-medium-down, tbody.show-for-large-only, tbody.show-for-large-up, tbody.show-for-large, tbody.show-for-large-down, tbody.hide-for-xlarge-only, tbody.hide-for-xlarge-up, tbody.hide-for-xlarge, tbody.show-for-xlarge-down, tbody.hide-for-xxlarge-only, tbody.hide-for-xxlarge-up, tbody.hide-for-xxlarge, tbody.show-for-xxlarge-down {
+    display: table-row-group !important;
+  }
+
+  /* line 268, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_visibility.scss */
+  tr.hide-for-small-only, tr.show-for-small-up, tr.hide-for-small, tr.hide-for-small-down, tr.hide-for-medium-only, tr.show-for-medium-up, tr.hide-for-medium, tr.hide-for-medium-down, tr.show-for-large-only, tr.show-for-large-up, tr.show-for-large, tr.show-for-large-down, tr.hide-for-xlarge-only, tr.hide-for-xlarge-up, tr.hide-for-xlarge, tr.show-for-xlarge-down, tr.hide-for-xxlarge-only, tr.hide-for-xxlarge-up, tr.hide-for-xxlarge, tr.show-for-xxlarge-down {
+    display: table-row !important;
+  }
+
+  /* line 271, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_visibility.scss */
+  th.hide-for-small-only, td.hide-for-small-only, th.show-for-small-up, td.show-for-small-up, th.hide-for-small, td.hide-for-small, th.hide-for-small-down, td.hide-for-small-down, th.hide-for-medium-only, td.hide-for-medium-only, th.show-for-medium-up, td.show-for-medium-up, th.hide-for-medium, td.hide-for-medium, th.hide-for-medium-down, td.hide-for-medium-down, th.show-for-large-only, td.show-for-large-only, th.show-for-large-up, td.show-for-large-up, th.show-for-large, td.show-for-large, th.show-for-large-down, td.show-for-large-down, th.hide-for-xlarge-only, td.hide-for-xlarge-only, th.hide-for-xlarge-up, td.hide-for-xlarge-up, th.hide-for-xlarge, td.hide-for-xlarge, th.show-for-xlarge-down, td.show-for-xlarge-down, th.hide-for-xxlarge-only, td.hide-for-xxlarge-only, th.hide-for-xxlarge-up, td.hide-for-xxlarge-up, th.hide-for-xxlarge, td.hide-for-xxlarge, th.show-for-xxlarge-down, td.show-for-xxlarge-down {
+    display: table-cell !important;
+  }
+}
+/* xlarge displays */
+@media only screen and (min-width: 90.063em) {
+  /* line 244, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_visibility.scss */
+  .hide-for-small-only, .show-for-small-up, .hide-for-small, .hide-for-small-down, .hide-for-medium-only, .show-for-medium-up, .hide-for-medium, .hide-for-medium-down, .hide-for-large-only, .show-for-large-up, .hide-for-large, .hide-for-large-down, .show-for-xlarge-only, .show-for-xlarge-up, .show-for-xlarge, .show-for-xlarge-down, .hide-for-xxlarge-only, .hide-for-xxlarge-up, .hide-for-xxlarge, .show-for-xxlarge-down {
+    display: inherit !important;
+  }
+
+  /* line 247, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_visibility.scss */
+  .show-for-small-only, .hide-for-small-up, .show-for-small, .show-for-small-down, .show-for-medium-only, .hide-for-medium-up, .show-for-medium, .show-for-medium-down, .show-for-large-only, .hide-for-large-up, .show-for-large, .show-for-large-down, .hide-for-xlarge-only, .hide-for-xlarge-up, .hide-for-xlarge, .hide-for-xlarge-down, .show-for-xxlarge-only, .show-for-xxlarge-up, .show-for-xxlarge, .hide-for-xxlarge-down {
+    display: none !important;
+  }
+
+  /* line 251, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_visibility.scss */
+  .hidden-for-small-only, .visible-for-small-up, .hidden-for-small, .hidden-for-small-down, .hidden-for-medium-only, .visible-for-medium-up, .hidden-for-medium, .hidden-for-medium-down, .hidden-for-large-only, .visible-for-large-up, .hidden-for-large, .hidden-for-large-down, .visible-for-xlarge-only, .visible-for-xlarge-up, .visible-for-xlarge, .visible-for-xlarge-down, .hidden-for-xxlarge-only, .hidden-for-xxlarge-up, .hidden-for-xxlarge, .visible-for-xxlarge-down {
+    position: static !important;
+    height: auto;
+    width: auto;
+    overflow: visible;
+    clip: auto;
+  }
+
+  /* line 254, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_visibility.scss */
+  .visible-for-small-only, .hidden-for-small-up, .visible-for-small, .visible-for-small-down, .visible-for-medium-only, .hidden-for-medium-up, .visible-for-medium, .visible-for-medium-down, .visible-for-large-only, .hidden-for-large-up, .visible-for-large, .visible-for-large-down, .hidden-for-xlarge-only, .hidden-for-xlarge-up, .hidden-for-xlarge, .hidden-for-xlarge-down, .visible-for-xxlarge-only, .visible-for-xxlarge-up, .visible-for-xxlarge, .hidden-for-xxlarge-down {
+    position: absolute !important;
+    height: 1px;
+    width: 1px;
+    overflow: hidden;
+    clip: rect(1px, 1px, 1px, 1px);
+  }
+
+  /* line 259, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_visibility.scss */
+  table.hide-for-small-only, table.show-for-small-up, table.hide-for-small, table.hide-for-small-down, table.hide-for-medium-only, table.show-for-medium-up, table.hide-for-medium, table.hide-for-medium-down, table.hide-for-large-only, table.show-for-large-up, table.hide-for-large, table.hide-for-large-down, table.show-for-xlarge-only, table.show-for-xlarge-up, table.show-for-xlarge, table.show-for-xlarge-down, table.hide-for-xxlarge-only, table.hide-for-xxlarge-up, table.hide-for-xxlarge, table.show-for-xxlarge-down {
+    display: table;
+  }
+
+  /* line 262, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_visibility.scss */
+  thead.hide-for-small-only, thead.show-for-small-up, thead.hide-for-small, thead.hide-for-small-down, thead.hide-for-medium-only, thead.show-for-medium-up, thead.hide-for-medium, thead.hide-for-medium-down, thead.hide-for-large-only, thead.show-for-large-up, thead.hide-for-large, thead.hide-for-large-down, thead.show-for-xlarge-only, thead.show-for-xlarge-up, thead.show-for-xlarge, thead.show-for-xlarge-down, thead.hide-for-xxlarge-only, thead.hide-for-xxlarge-up, thead.hide-for-xxlarge, thead.show-for-xxlarge-down {
+    display: table-header-group !important;
+  }
+
+  /* line 265, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_visibility.scss */
+  tbody.hide-for-small-only, tbody.show-for-small-up, tbody.hide-for-small, tbody.hide-for-small-down, tbody.hide-for-medium-only, tbody.show-for-medium-up, tbody.hide-for-medium, tbody.hide-for-medium-down, tbody.hide-for-large-only, tbody.show-for-large-up, tbody.hide-for-large, tbody.hide-for-large-down, tbody.show-for-xlarge-only, tbody.show-for-xlarge-up, tbody.show-for-xlarge, tbody.show-for-xlarge-down, tbody.hide-for-xxlarge-only, tbody.hide-for-xxlarge-up, tbody.hide-for-xxlarge, tbody.show-for-xxlarge-down {
+    display: table-row-group !important;
+  }
+
+  /* line 268, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_visibility.scss */
+  tr.hide-for-small-only, tr.show-for-small-up, tr.hide-for-small, tr.hide-for-small-down, tr.hide-for-medium-only, tr.show-for-medium-up, tr.hide-for-medium, tr.hide-for-medium-down, tr.hide-for-large-only, tr.show-for-large-up, tr.hide-for-large, tr.hide-for-large-down, tr.show-for-xlarge-only, tr.show-for-xlarge-up, tr.show-for-xlarge, tr.show-for-xlarge-down, tr.hide-for-xxlarge-only, tr.hide-for-xxlarge-up, tr.hide-for-xxlarge, tr.show-for-xxlarge-down {
+    display: table-row !important;
+  }
+
+  /* line 271, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_visibility.scss */
+  th.hide-for-small-only, td.hide-for-small-only, th.show-for-small-up, td.show-for-small-up, th.hide-for-small, td.hide-for-small, th.hide-for-small-down, td.hide-for-small-down, th.hide-for-medium-only, td.hide-for-medium-only, th.show-for-medium-up, td.show-for-medium-up, th.hide-for-medium, td.hide-for-medium, th.hide-for-medium-down, td.hide-for-medium-down, th.hide-for-large-only, td.hide-for-large-only, th.show-for-large-up, td.show-for-large-up, th.hide-for-large, td.hide-for-large, th.hide-for-large-down, td.hide-for-large-down, th.show-for-xlarge-only, td.show-for-xlarge-only, th.show-for-xlarge-up, td.show-for-xlarge-up, th.show-for-xlarge, td.show-for-xlarge, th.show-for-xlarge-down, td.show-for-xlarge-down, th.hide-for-xxlarge-only, td.hide-for-xxlarge-only, th.hide-for-xxlarge-up, td.hide-for-xxlarge-up, th.hide-for-xxlarge, td.hide-for-xxlarge, th.show-for-xxlarge-down, td.show-for-xxlarge-down {
+    display: table-cell !important;
+  }
+}
+/* xxlarge displays */
+@media only screen and (min-width: 120.063em) {
+  /* line 244, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_visibility.scss */
+  .hide-for-small-only, .show-for-small-up, .hide-for-small, .hide-for-small-down, .hide-for-medium-only, .show-for-medium-up, .hide-for-medium, .hide-for-medium-down, .hide-for-large-only, .show-for-large-up, .hide-for-large, .hide-for-large-down, .hide-for-xlarge-only, .show-for-xlarge-up, .hide-for-xlarge, .hide-for-xlarge-down, .show-for-xxlarge-only, .show-for-xxlarge-up, .show-for-xxlarge, .show-for-xxlarge-down {
+    display: inherit !important;
+  }
+
+  /* line 247, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_visibility.scss */
+  .show-for-small-only, .hide-for-small-up, .show-for-small, .show-for-small-down, .show-for-medium-only, .hide-for-medium-up, .show-for-medium, .show-for-medium-down, .show-for-large-only, .hide-for-large-up, .show-for-large, .show-for-large-down, .show-for-xlarge-only, .hide-for-xlarge-up, .show-for-xlarge, .show-for-xlarge-down, .hide-for-xxlarge-only, .hide-for-xxlarge-up, .hide-for-xxlarge, .hide-for-xxlarge-down {
+    display: none !important;
+  }
+
+  /* line 251, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_visibility.scss */
+  .hidden-for-small-only, .visible-for-small-up, .hidden-for-small, .hidden-for-small-down, .hidden-for-medium-only, .visible-for-medium-up, .hidden-for-medium, .hidden-for-medium-down, .hidden-for-large-only, .visible-for-large-up, .hidden-for-large, .hidden-for-large-down, .hidden-for-xlarge-only, .visible-for-xlarge-up, .hidden-for-xlarge, .hidden-for-xlarge-down, .visible-for-xxlarge-only, .visible-for-xxlarge-up, .visible-for-xxlarge, .visible-for-xxlarge-down {
+    position: static !important;
+    height: auto;
+    width: auto;
+    overflow: visible;
+    clip: auto;
+  }
+
+  /* line 254, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_visibility.scss */
+  .visible-for-small-only, .hidden-for-small-up, .visible-for-small, .visible-for-small-down, .visible-for-medium-only, .hidden-for-medium-up, .visible-for-medium, .visible-for-medium-down, .visible-for-large-only, .hidden-for-large-up, .visible-for-large, .visible-for-large-down, .visible-for-xlarge-only, .hidden-for-xlarge-up, .visible-for-xlarge, .visible-for-xlarge-down, .hidden-for-xxlarge-only, .hidden-for-xxlarge-up, .hidden-for-xxlarge, .hidden-for-xxlarge-down {
+    position: absolute !important;
+    height: 1px;
+    width: 1px;
+    overflow: hidden;
+    clip: rect(1px, 1px, 1px, 1px);
+  }
+
+  /* line 259, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_visibility.scss */
+  table.hide-for-small-only, table.show-for-small-up, table.hide-for-small, table.hide-for-small-down, table.hide-for-medium-only, table.show-for-medium-up, table.hide-for-medium, table.hide-for-medium-down, table.hide-for-large-only, table.show-for-large-up, table.hide-for-large, table.hide-for-large-down, table.hide-for-xlarge-only, table.show-for-xlarge-up, table.hide-for-xlarge, table.hide-for-xlarge-down, table.show-for-xxlarge-only, table.show-for-xxlarge-up, table.show-for-xxlarge, table.show-for-xxlarge-down {
+    display: table;
+  }
+
+  /* line 262, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_visibility.scss */
+  thead.hide-for-small-only, thead.show-for-small-up, thead.hide-for-small, thead.hide-for-small-down, thead.hide-for-medium-only, thead.show-for-medium-up, thead.hide-for-medium, thead.hide-for-medium-down, thead.hide-for-large-only, thead.show-for-large-up, thead.hide-for-large, thead.hide-for-large-down, thead.hide-for-xlarge-only, thead.show-for-xlarge-up, thead.hide-for-xlarge, thead.hide-for-xlarge-down, thead.show-for-xxlarge-only, thead.show-for-xxlarge-up, thead.show-for-xxlarge, thead.show-for-xxlarge-down {
+    display: table-header-group !important;
+  }
+
+  /* line 265, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_visibility.scss */
+  tbody.hide-for-small-only, tbody.show-for-small-up, tbody.hide-for-small, tbody.hide-for-small-down, tbody.hide-for-medium-only, tbody.show-for-medium-up, tbody.hide-for-medium, tbody.hide-for-medium-down, tbody.hide-for-large-only, tbody.show-for-large-up, tbody.hide-for-large, tbody.hide-for-large-down, tbody.hide-for-xlarge-only, tbody.show-for-xlarge-up, tbody.hide-for-xlarge, tbody.hide-for-xlarge-down, tbody.show-for-xxlarge-only, tbody.show-for-xxlarge-up, tbody.show-for-xxlarge, tbody.show-for-xxlarge-down {
+    display: table-row-group !important;
+  }
+
+  /* line 268, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_visibility.scss */
+  tr.hide-for-small-only, tr.show-for-small-up, tr.hide-for-small, tr.hide-for-small-down, tr.hide-for-medium-only, tr.show-for-medium-up, tr.hide-for-medium, tr.hide-for-medium-down, tr.hide-for-large-only, tr.show-for-large-up, tr.hide-for-large, tr.hide-for-large-down, tr.hide-for-xlarge-only, tr.show-for-xlarge-up, tr.hide-for-xlarge, tr.hide-for-xlarge-down, tr.show-for-xxlarge-only, tr.show-for-xxlarge-up, tr.show-for-xxlarge, tr.show-for-xxlarge-down {
+    display: table-row !important;
+  }
+
+  /* line 271, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_visibility.scss */
+  th.hide-for-small-only, td.hide-for-small-only, th.show-for-small-up, td.show-for-small-up, th.hide-for-small, td.hide-for-small, th.hide-for-small-down, td.hide-for-small-down, th.hide-for-medium-only, td.hide-for-medium-only, th.show-for-medium-up, td.show-for-medium-up, th.hide-for-medium, td.hide-for-medium, th.hide-for-medium-down, td.hide-for-medium-down, th.hide-for-large-only, td.hide-for-large-only, th.show-for-large-up, td.show-for-large-up, th.hide-for-large, td.hide-for-large, th.hide-for-large-down, td.hide-for-large-down, th.hide-for-xlarge-only, td.hide-for-xlarge-only, th.show-for-xlarge-up, td.show-for-xlarge-up, th.hide-for-xlarge, td.hide-for-xlarge, th.hide-for-xlarge-down, td.hide-for-xlarge-down, th.show-for-xxlarge-only, td.show-for-xxlarge-only, th.show-for-xxlarge-up, td.show-for-xxlarge-up, th.show-for-xxlarge, td.show-for-xxlarge, th.show-for-xxlarge-down, td.show-for-xxlarge-down {
+    display: table-cell !important;
+  }
+}
+/* Orientation targeting */
+/* line 285, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_visibility.scss */
+.show-for-landscape,
+.hide-for-portrait {
+  display: inherit !important;
+}
+
+/* line 287, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_visibility.scss */
+.hide-for-landscape,
+.show-for-portrait {
+  display: none !important;
+}
+
+/* Specific visibility for tables */
+/* line 292, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_visibility.scss */
+table.hide-for-landscape, table.show-for-portrait {
+  display: table;
+}
+
+/* line 296, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_visibility.scss */
+thead.hide-for-landscape, thead.show-for-portrait {
+  display: table-header-group !important;
+}
+
+/* line 300, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_visibility.scss */
+tbody.hide-for-landscape, tbody.show-for-portrait {
+  display: table-row-group !important;
+}
+
+/* line 304, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_visibility.scss */
+tr.hide-for-landscape, tr.show-for-portrait {
+  display: table-row !important;
+}
+
+/* line 309, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_visibility.scss */
+td.hide-for-landscape, td.show-for-portrait,
+th.hide-for-landscape,
+th.show-for-portrait {
+  display: table-cell !important;
+}
+
+@media only screen and (orientation: landscape) {
+  /* line 314, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_visibility.scss */
+  .show-for-landscape,
+  .hide-for-portrait {
+    display: inherit !important;
+  }
+
+  /* line 316, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_visibility.scss */
+  .hide-for-landscape,
+  .show-for-portrait {
+    display: none !important;
+  }
+
+  /* Specific visibility for tables */
+  /* line 321, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_visibility.scss */
+  table.show-for-landscape, table.hide-for-portrait {
+    display: table;
+  }
+
+  /* line 325, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_visibility.scss */
+  thead.show-for-landscape, thead.hide-for-portrait {
+    display: table-header-group !important;
+  }
+
+  /* line 329, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_visibility.scss */
+  tbody.show-for-landscape, tbody.hide-for-portrait {
+    display: table-row-group !important;
+  }
+
+  /* line 333, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_visibility.scss */
+  tr.show-for-landscape, tr.hide-for-portrait {
+    display: table-row !important;
+  }
+
+  /* line 338, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_visibility.scss */
+  td.show-for-landscape, td.hide-for-portrait,
+  th.show-for-landscape,
+  th.hide-for-portrait {
+    display: table-cell !important;
+  }
+}
+@media only screen and (orientation: portrait) {
+  /* line 344, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_visibility.scss */
+  .show-for-portrait,
+  .hide-for-landscape {
+    display: inherit !important;
+  }
+
+  /* line 346, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_visibility.scss */
+  .hide-for-portrait,
+  .show-for-landscape {
+    display: none !important;
+  }
+
+  /* Specific visibility for tables */
+  /* line 351, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_visibility.scss */
+  table.show-for-portrait, table.hide-for-landscape {
+    display: table;
+  }
+
+  /* line 355, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_visibility.scss */
+  thead.show-for-portrait, thead.hide-for-landscape {
+    display: table-header-group !important;
+  }
+
+  /* line 359, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_visibility.scss */
+  tbody.show-for-portrait, tbody.hide-for-landscape {
+    display: table-row-group !important;
+  }
+
+  /* line 363, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_visibility.scss */
+  tr.show-for-portrait, tr.hide-for-landscape {
+    display: table-row !important;
+  }
+
+  /* line 368, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_visibility.scss */
+  td.show-for-portrait, td.hide-for-landscape,
+  th.show-for-portrait,
+  th.hide-for-landscape {
+    display: table-cell !important;
+  }
+}
+/* Touch-enabled device targeting */
+/* line 374, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_visibility.scss */
+.show-for-touch {
+  display: none !important;
+}
+
+/* line 375, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_visibility.scss */
+.hide-for-touch {
+  display: inherit !important;
+}
+
+/* line 376, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_visibility.scss */
+.touch .show-for-touch {
+  display: inherit !important;
+}
+
+/* line 377, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_visibility.scss */
+.touch .hide-for-touch {
+  display: none !important;
+}
+
+/* Specific visibility for tables */
+/* line 380, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_visibility.scss */
+table.hide-for-touch {
+  display: table;
+}
+
+/* line 381, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_visibility.scss */
+.touch table.show-for-touch {
+  display: table;
+}
+
+/* line 382, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_visibility.scss */
+thead.hide-for-touch {
+  display: table-header-group !important;
+}
+
+/* line 383, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_visibility.scss */
+.touch thead.show-for-touch {
+  display: table-header-group !important;
+}
+
+/* line 384, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_visibility.scss */
+tbody.hide-for-touch {
+  display: table-row-group !important;
+}
+
+/* line 385, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_visibility.scss */
+.touch tbody.show-for-touch {
+  display: table-row-group !important;
+}
+
+/* line 386, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_visibility.scss */
+tr.hide-for-touch {
+  display: table-row !important;
+}
+
+/* line 387, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_visibility.scss */
+.touch tr.show-for-touch {
+  display: table-row !important;
+}
+
+/* line 388, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_visibility.scss */
+td.hide-for-touch {
+  display: table-cell !important;
+}
+
+/* line 389, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_visibility.scss */
+.touch td.show-for-touch {
+  display: table-cell !important;
+}
+
+/* line 390, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_visibility.scss */
+th.hide-for-touch {
+  display: table-cell !important;
+}
+
+/* line 391, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_visibility.scss */
+.touch th.show-for-touch {
+  display: table-cell !important;
+}
+
+/* Print visibility */
+@media print {
+  /* line 396, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_visibility.scss */
+  .show-for-print {
+    display: block;
+  }
+
+  /* line 397, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_visibility.scss */
+  .hide-for-print {
+    display: none;
+  }
+
+  /* line 399, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_visibility.scss */
+  table.show-for-print {
+    display: table;
+  }
+
+  /* line 400, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_visibility.scss */
+  thead.show-for-print {
+    display: table-header-group !important;
+  }
+
+  /* line 401, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_visibility.scss */
+  tbody.show-for-print {
+    display: table-row-group !important;
+  }
+
+  /* line 402, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_visibility.scss */
+  tr.show-for-print {
+    display: table-row !important;
+  }
+
+  /* line 403, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_visibility.scss */
+  td.show-for-print {
+    display: table-cell !important;
+  }
+
+  /* line 404, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_visibility.scss */
+  th.show-for-print {
+    display: table-cell !important;
+  }
+}
+.row {
+  max-width: 100%; }
+
+.menu {
+  background-color: #292c2f;
+  padding: 1.5rem 3rem;
+  height: auto; }
+  .menu .inline-list {
+    text-align: center; }
+    .menu .inline-list li {
+      float: none;
+      display: inline-block; }
+    .menu .inline-list a {
+      color: #fff;
+      padding-bottom: 0.5rem; }
+      .menu .inline-list a:hover {
+        color: #87d37c;
+        transition: all .3s ease-in-out; }
+    .menu .inline-list .active a {
+      color: #87d37c; }
+  .menu .account {
+    position: absolute;
+    top: 3%;
+    right: 3%; }
+    .menu .account a, .menu .account i {
+      color: #fff; }
+  @media only screen and (min-width: 40.063em) {
+    .menu {
+      height: 5rem; }
+      .menu .inline-list {
+        float: left;
+        margin: 0 0 0 1.5rem; }
+      .menu a:hover {
+        border-bottom: 2px solid #87d37c; } }
+  .menu .account-action {
+    float: right;
+    margin: -.75rem 0 0 0; }
+    .menu .account-action li {
+      margin-left: .2rem; }
+    .menu .account-action a {
+      padding: 0.75rem 1rem; }
+    .menu .account-action a.signup {
+      font-weight: bold;
+      background-color: #3d4146;
+      border-radius: 3px; }
+
+.name {
+  text-align: center;
+  font-size: 1.5rem;
+  line-height: 1;
+  margin: 0 0 1rem 0;
+  color: #fff; }
+  .name i {
+    color: #87d37c;
+    margin-right: 0.5rem; }
+  @media only screen and (min-width: 40.063em) {
+    .name {
+      float: left; } }
+/* line 4, /Users/hanaa/Downloads/Trash_Track/app/assets/stylesheets/nav.scss */
+.row {
+  max-width: 100%;
+}
+
+/* line 8, /Users/hanaa/Downloads/Trash_Track/app/assets/stylesheets/nav.scss */
+.menu {
+  background-color: #292c2f;
+  padding: 1.5rem 3rem;
+  height: auto;
+}
+/* line 13, /Users/hanaa/Downloads/Trash_Track/app/assets/stylesheets/nav.scss */
+.menu .inline-list {
+  text-align: center;
+}
+/* line 16, /Users/hanaa/Downloads/Trash_Track/app/assets/stylesheets/nav.scss */
+.menu .inline-list li {
+  float: none;
+  display: inline-block;
+}
+/* line 21, /Users/hanaa/Downloads/Trash_Track/app/assets/stylesheets/nav.scss */
+.menu .inline-list a {
+  color: #fff;
+  padding-bottom: 0.5rem;
+}
+/* line 25, /Users/hanaa/Downloads/Trash_Track/app/assets/stylesheets/nav.scss */
+.menu .inline-list a:hover {
+  color: #87D37C;
+  transition: all .3s ease-in-out;
+}
+/* line 31, /Users/hanaa/Downloads/Trash_Track/app/assets/stylesheets/nav.scss */
+.menu .inline-list .active a {
+  color: #87D37C;
+}
+/* line 36, /Users/hanaa/Downloads/Trash_Track/app/assets/stylesheets/nav.scss */
+.menu .account {
+  position: absolute;
+  top: 3%;
+  right: 3%;
+}
+/* line 41, /Users/hanaa/Downloads/Trash_Track/app/assets/stylesheets/nav.scss */
+.menu .account a, .menu .account i {
+  color: #fff;
+}
+@media only screen and (min-width: 40.063em) {
+  /* line 8, /Users/hanaa/Downloads/Trash_Track/app/assets/stylesheets/nav.scss */
+  .menu {
+    height: 5rem;
+  }
+  /* line 49, /Users/hanaa/Downloads/Trash_Track/app/assets/stylesheets/nav.scss */
+  .menu .inline-list {
+    float: left;
+    margin: 0 0 0 1.5rem;
+  }
+  /* line 54, /Users/hanaa/Downloads/Trash_Track/app/assets/stylesheets/nav.scss */
+  .menu a:hover {
+    border-bottom: 2px solid #87D37C;
+  }
+}
+/* line 59, /Users/hanaa/Downloads/Trash_Track/app/assets/stylesheets/nav.scss */
+.menu .account-action {
+  float: right;
+  margin: -.75rem 0 0 0;
+}
+/* line 63, /Users/hanaa/Downloads/Trash_Track/app/assets/stylesheets/nav.scss */
+.menu .account-action li {
+  margin-left: .2rem;
+}
+/* line 67, /Users/hanaa/Downloads/Trash_Track/app/assets/stylesheets/nav.scss */
+.menu .account-action a {
+  padding: 0.75rem 1rem;
+}
+/* line 69, /Users/hanaa/Downloads/Trash_Track/app/assets/stylesheets/nav.scss */
+.menu .account-action a.signup {
+  font-weight: bold;
+  background-color: #3d4146;
+  border-radius: 3px;
+}
+
+/* line 77, /Users/hanaa/Downloads/Trash_Track/app/assets/stylesheets/nav.scss */
+.name {
+  text-align: center;
+  font-size: 1.5rem;
+  line-height: 1;
+  margin: 0 0 1rem 0;
+  color: #fff;
+}
+/* line 84, /Users/hanaa/Downloads/Trash_Track/app/assets/stylesheets/nav.scss */
+.name i {
+  color: #87D37C;
+  margin-right: 0.5rem;
+}
+@media only screen and (min-width: 40.063em) {
+  /* line 77, /Users/hanaa/Downloads/Trash_Track/app/assets/stylesheets/nav.scss */
+  .name {
+    float: left;
+  }
+}
+.profile-card {
+  padding: 1rem;
+  box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
+  margin: 2rem 0;
+  background-color:  #ccddff; }
+  .profile-card img {
+    width: 20rem;
+    display: block;
+    margin: 2rem auto;
+    text-align: center;
+    border-radius: 70%;
+    box-shadow: 2px 2px 5px #888888; }
+  .profile-card .profile-info {
+    padding: 1rem; }
+    .profile-card .profile-info h4 {
+      margin-top: 0;
+      text-align: center;
+      text-transform: uppercase; }
+    .profile-card .profile-info p {
+      text-align: justify; }
+    .profile-card .profile-info .inline-list {
+      text-align: center;
+      margin-bottom: 1rem; }
+      .profile-card .profile-info .inline-list li {
+        float: none;
+        display: inline-block; }
+      .profile-card .profile-info .inline-list i.fi-social-facebook {
+        font-size: 1.5rem;
+        color: #3b5998; }
+        .profile-card .profile-info .inline-list i.fi-social-facebook:hover {
+          transform: scale(1.5);
+          transition: all .5s ease-in-out; }
+      .profile-card .profile-info .inline-list i.fi-social-twitter {
+        font-size: 1.5rem;
+        color: #55acee; }
+        .profile-card .profile-info .inline-list i.fi-social-twitter:hover {
+          transform: scale(1.5);
+          transition: all .5s ease-in-out; }
+      .profile-card .profile-info .inline-list i.fi-social-linkedin {
+        font-size: 1.5rem;
+        color: #0077b5; }
+        .profile-card .profile-info .inline-list i.fi-social-linkedin:hover {
+          transform: scale(1.5);
+          transition: all .5s ease-in-out; }
+      .profile-card .profile-info .inline-list i.fi-social-github {
+        font-size: 1.5rem;
+        color: #333; }
+        .profile-card .profile-info .inline-list i.fi-social-github:hover {
+          transform: scale(1.5);
+          transition: all .5s ease-in-out; }
+      .profile-card .profile-info .inline-list i.fi-social-youtube {
+        font-size: 1.5rem;
+        color: #cc181e; }
+        .profile-card .profile-info .inline-list i.fi-social-youtube:hover {
+          transform: scale(1.5);
+          transition: all .5s ease-in-out; }
+/* line 1, /Users/hanaa/Downloads/Trash_Track/app/assets/stylesheets/postindex.scss */
+.profile-card {
+  padding: 1rem;
+  box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
+  margin: 2rem 0;
+  background-color: #fff;
+}
+/* line 6, /Users/hanaa/Downloads/Trash_Track/app/assets/stylesheets/postindex.scss */
+.profile-card img {
+  width: 16rem;
+  display: block;
+  margin: 2rem auto;
+  text-align: center;
+  border-radius: 70%;
+  box-shadow: 2px 2px 5px #888888;
+}
+/* line 14, /Users/hanaa/Downloads/Trash_Track/app/assets/stylesheets/postindex.scss */
+.profile-card .profile-info {
+  padding: 1rem;
+}
+/* line 16, /Users/hanaa/Downloads/Trash_Track/app/assets/stylesheets/postindex.scss */
+.profile-card .profile-info h4 {
+  margin-top: 0;
+  text-align: center;
+  text-transform: uppercase;
+}
+/* line 21, /Users/hanaa/Downloads/Trash_Track/app/assets/stylesheets/postindex.scss */
+.profile-card .profile-info p {
+  text-align: justify;
+}
+/* line 24, /Users/hanaa/Downloads/Trash_Track/app/assets/stylesheets/postindex.scss */
+.profile-card .profile-info .inline-list {
+  text-align: center;
+  margin-bottom: 1rem;
+}
+/* line 27, /Users/hanaa/Downloads/Trash_Track/app/assets/stylesheets/postindex.scss */
+.profile-card .profile-info .inline-list li {
+  float: none;
+  display: inline-block;
+}
+/* line 31, /Users/hanaa/Downloads/Trash_Track/app/assets/stylesheets/postindex.scss */
+.profile-card .profile-info .inline-list i.fi-social-facebook {
+  font-size: 1.5rem;
+  color: #3b5998;
+}
+/* line 34, /Users/hanaa/Downloads/Trash_Track/app/assets/stylesheets/postindex.scss */
+.profile-card .profile-info .inline-list i.fi-social-facebook:hover {
+  transform: scale(1.5);
+  transition: all .5s ease-in-out;
+}
+/* line 39, /Users/hanaa/Downloads/Trash_Track/app/assets/stylesheets/postindex.scss */
+.profile-card .profile-info .inline-list i.fi-social-twitter {
+  font-size: 1.5rem;
+  color: #55acee;
+}
+/* line 42, /Users/hanaa/Downloads/Trash_Track/app/assets/stylesheets/postindex.scss */
+.profile-card .profile-info .inline-list i.fi-social-twitter:hover {
+  transform: scale(1.5);
+  transition: all .5s ease-in-out;
+}
+/* line 47, /Users/hanaa/Downloads/Trash_Track/app/assets/stylesheets/postindex.scss */
+.profile-card .profile-info .inline-list i.fi-social-linkedin {
+  font-size: 1.5rem;
+  color: #0077b5;
+}
+/* line 50, /Users/hanaa/Downloads/Trash_Track/app/assets/stylesheets/postindex.scss */
+.profile-card .profile-info .inline-list i.fi-social-linkedin:hover {
+  transform: scale(1.5);
+  transition: all .5s ease-in-out;
+}
+/* line 55, /Users/hanaa/Downloads/Trash_Track/app/assets/stylesheets/postindex.scss */
+.profile-card .profile-info .inline-list i.fi-social-github {
+  font-size: 1.5rem;
+  color: #333;
+}
+/* line 58, /Users/hanaa/Downloads/Trash_Track/app/assets/stylesheets/postindex.scss */
+.profile-card .profile-info .inline-list i.fi-social-github:hover {
+  transform: scale(1.5);
+  transition: all .5s ease-in-out;
+}
+/* line 63, /Users/hanaa/Downloads/Trash_Track/app/assets/stylesheets/postindex.scss */
+.profile-card .profile-info .inline-list i.fi-social-youtube {
+  font-size: 1.5rem;
+  color: #cc181e;
+}
+/* line 66, /Users/hanaa/Downloads/Trash_Track/app/assets/stylesheets/postindex.scss */
+.profile-card .profile-info .inline-list i.fi-social-youtube:hover {
+  transform: scale(1.5);
+  transition: all .5s ease-in-out;
+}
+/* line 1, /Users/hanaa/Downloads/Trash_Track/app/assets/stylesheets/scaffolds.css.scss */
+body {
+  background-color: #fff;
+  color: #333;
+  font-family: verdana, arial, helvetica, sans-serif;
+  font-size: 13px;
+  line-height: 18px;
+}
+
+/* line 9, /Users/hanaa/Downloads/Trash_Track/app/assets/stylesheets/scaffolds.css.scss */
+p, ol, ul, td {
+  font-family: verdana, arial, helvetica, sans-serif;
+  font-size: 13px;
+  line-height: 18px;
+}
+
+/* line 15, /Users/hanaa/Downloads/Trash_Track/app/assets/stylesheets/scaffolds.css.scss */
+pre {
+  background-color: #eee;
+  padding: 10px;
+  font-size: 11px;
+}
+
+/* line 21, /Users/hanaa/Downloads/Trash_Track/app/assets/stylesheets/scaffolds.css.scss */
+a {
+  color: #000;
+}
+/* line 23, /Users/hanaa/Downloads/Trash_Track/app/assets/stylesheets/scaffolds.css.scss */
+a:visited {
+  color: #666;
+}
+/* line 26, /Users/hanaa/Downloads/Trash_Track/app/assets/stylesheets/scaffolds.css.scss */
+a:hover {
+  color: #fff;
+  background-color: #000;
+}
+
+/* line 33, /Users/hanaa/Downloads/Trash_Track/app/assets/stylesheets/scaffolds.css.scss */
+div.field, div.actions {
+  margin-bottom: 10px;
+}
+
+/* line 38, /Users/hanaa/Downloads/Trash_Track/app/assets/stylesheets/scaffolds.css.scss */
+#notice {
+  color: green;
+}
+
+/* line 42, /Users/hanaa/Downloads/Trash_Track/app/assets/stylesheets/scaffolds.css.scss */
+.field_with_errors {
+  padding: 2px;
+  background-color: red;
+  display: table;
+}
+
+/* line 48, /Users/hanaa/Downloads/Trash_Track/app/assets/stylesheets/scaffolds.css.scss */
+#error_explanation {
+  width: 450px;
+  border: 2px solid red;
+  padding: 7px;
+  padding-bottom: 0;
+  margin-bottom: 20px;
+  background-color: #f0f0f0;
+}
+/* line 55, /Users/hanaa/Downloads/Trash_Track/app/assets/stylesheets/scaffolds.css.scss */
+#error_explanation h2 {
+  text-align: left;
+  font-weight: bold;
+  padding: 5px 5px 5px 15px;
+  font-size: 12px;
+  margin: -7px;
+  margin-bottom: 0px;
+  background-color: #c00;
+  color: #fff;
+}
+/* line 65, /Users/hanaa/Downloads/Trash_Track/app/assets/stylesheets/scaffolds.css.scss */
+#error_explanation ul li {
+  font-size: 12px;
+  list-style: square;
+}
+/*
+ * This is a manifest file that'll be compiled into application.css, which will include all the files
+ * listed below.
+ *
+ * Any CSS and SCSS file within this directory, lib/assets/stylesheets, vendor/assets/stylesheets,
+ * or vendor/assets/stylesheets of plugins, if any, can be referenced here using a relative path.
+ *
+ * You're free to add application-wide styles to this file and they'll appear at the bottom of the
+ * compiled file so the styles you add here take precedence over styles defined in any styles
+ * defined in the other CSS/SCSS files in this directory. It is generally better to create a new
+ * file per style scope.
+ *
+
+
+
+ */
+/* Accessibility - hides the forward slash */
+/* line 130, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_breadcrumbs.scss */
+[aria-label="breadcrumbs"] [aria-hidden="true"]:after {
+  content: "/";
+}
+
+/* line 223, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_icon-bar.scss */
+.icon-bar.two-up .item {
+  width: 50%;
+}
+/* line 224, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_icon-bar.scss */
+.icon-bar.two-up.vertical .item, .icon-bar.two-up.small-vertical .item {
+  width: auto;
+}
+@media only screen and (min-width: 40.063em) {
+  /* line 225, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_icon-bar.scss */
+  .icon-bar.two-up.medium-vertical .item {
+    width: auto;
+  }
+}
+@media only screen and (min-width: 64.063em) {
+  /* line 230, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_icon-bar.scss */
+  .icon-bar.two-up.large-vertical .item {
+    width: auto;
+  }
+}
+/* line 237, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_icon-bar.scss */
+.icon-bar.three-up .item {
+  width: 33.3333%;
+}
+/* line 238, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_icon-bar.scss */
+.icon-bar.three-up.vertical .item, .icon-bar.three-up.small-vertical .item {
+  width: auto;
+}
+@media only screen and (min-width: 40.063em) {
+  /* line 239, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_icon-bar.scss */
+  .icon-bar.three-up.medium-vertical .item {
+    width: auto;
+  }
+}
+@media only screen and (min-width: 64.063em) {
+  /* line 244, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_icon-bar.scss */
+  .icon-bar.three-up.large-vertical .item {
+    width: auto;
+  }
+}
+/* line 251, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_icon-bar.scss */
+.icon-bar.four-up .item {
+  width: 25%;
+}
+/* line 252, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_icon-bar.scss */
+.icon-bar.four-up.vertical .item, .icon-bar.four-up.small-vertical .item {
+  width: auto;
+}
+@media only screen and (min-width: 40.063em) {
+  /* line 253, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_icon-bar.scss */
+  .icon-bar.four-up.medium-vertical .item {
+    width: auto;
+  }
+}
+@media only screen and (min-width: 64.063em) {
+  /* line 258, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_icon-bar.scss */
+  .icon-bar.four-up.large-vertical .item {
+    width: auto;
+  }
+}
+/* line 265, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_icon-bar.scss */
+.icon-bar.five-up .item {
+  width: 20%;
+}
+/* line 266, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_icon-bar.scss */
+.icon-bar.five-up.vertical .item, .icon-bar.five-up.small-vertical .item {
+  width: auto;
+}
+@media only screen and (min-width: 40.063em) {
+  /* line 267, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_icon-bar.scss */
+  .icon-bar.five-up.medium-vertical .item {
+    width: auto;
+  }
+}
+@media only screen and (min-width: 64.063em) {
+  /* line 272, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_icon-bar.scss */
+  .icon-bar.five-up.large-vertical .item {
+    width: auto;
+  }
+}
+/* line 279, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_icon-bar.scss */
+.icon-bar.six-up .item {
+  width: 16.66667%;
+}
+/* line 280, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_icon-bar.scss */
+.icon-bar.six-up.vertical .item, .icon-bar.six-up.small-vertical .item {
+  width: auto;
+}
+@media only screen and (min-width: 40.063em) {
+  /* line 281, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_icon-bar.scss */
+  .icon-bar.six-up.medium-vertical .item {
+    width: auto;
+  }
+}
+@media only screen and (min-width: 64.063em) {
+  /* line 286, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_icon-bar.scss */
+  .icon-bar.six-up.large-vertical .item {
+    width: auto;
+  }
+}
+
+/* line 481, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_offcanvas.scss */
+.left-submenu {
+  -webkit-backface-visibility: hidden;
+  width: 15.625rem;
+  top: 0;
+  bottom: 0;
+  position: absolute;
+  margin: 0;
+  overflow-x: hidden;
+  overflow-y: auto;
+  background: #333333;
+  z-index: 1002;
+  box-sizing: content-box;
+  -webkit-overflow-scrolling: touch;
+  -ms-transform: translate(-100%, 0);
+  -webkit-transform: translate3d(-100%, 0, 0);
+  -moz-transform: translate3d(-100%, 0, 0);
+  -ms-transform: translate3d(-100%, 0, 0);
+  -o-transform: translate3d(-100%, 0, 0);
+  transform: translate3d(-100%, 0, 0);
+  left: 0;
+  -webkit-transition: -webkit-transform 500ms ease;
+  -moz-transition: -moz-transform 500ms ease;
+  -ms-transition: -ms-transform 500ms ease;
+  -o-transition: -o-transform 500ms ease;
+  transition: transform 500ms ease;
+}
+/* line 394, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_offcanvas.scss */
+.left-submenu * {
+  -webkit-backface-visibility: hidden;
+}
+/* line 421, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_offcanvas.scss */
+.left-submenu .back > a {
+  padding: 0.3rem 0.9375rem;
+  color: #999999;
+  text-transform: uppercase;
+  font-weight: bold;
+  background: #444;
+  border-top: 1px solid #5e5e5e;
+  border-bottom: none;
+  margin: 0;
+}
+/* line 429, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_offcanvas.scss */
+.left-submenu .back > a:hover {
+  background: #303030;
+  border-top: 1px solid #5e5e5e;
+  border-bottom: none;
+}
+/* line 452, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_offcanvas.scss */
+.left-submenu .back > a:before {
+  content: "\AB";
+  margin-right: 0.5rem;
+  display: inline;
+}
+/* line 483, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_offcanvas.scss */
+.left-submenu.move-right {
+  -ms-transform: translate(0%, 0);
+  -webkit-transform: translate3d(0%, 0, 0);
+  -moz-transform: translate3d(0%, 0, 0);
+  -ms-transform: translate3d(0%, 0, 0);
+  -o-transform: translate3d(0%, 0, 0);
+  transform: translate3d(0%, 0, 0);
+}
+
+/* line 488, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_offcanvas.scss */
+.right-submenu {
+  -webkit-backface-visibility: hidden;
+  width: 15.625rem;
+  top: 0;
+  bottom: 0;
+  position: absolute;
+  margin: 0;
+  overflow-x: hidden;
+  overflow-y: auto;
+  background: #333333;
+  z-index: 1002;
+  box-sizing: content-box;
+  -webkit-overflow-scrolling: touch;
+  -ms-transform: translate(100%, 0);
+  -webkit-transform: translate3d(100%, 0, 0);
+  -moz-transform: translate3d(100%, 0, 0);
+  -ms-transform: translate3d(100%, 0, 0);
+  -o-transform: translate3d(100%, 0, 0);
+  transform: translate3d(100%, 0, 0);
+  right: 0;
+  -webkit-transition: -webkit-transform 500ms ease;
+  -moz-transition: -moz-transform 500ms ease;
+  -ms-transition: -ms-transform 500ms ease;
+  -o-transition: -o-transform 500ms ease;
+  transition: transform 500ms ease;
+}
+/* line 394, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_offcanvas.scss */
+.right-submenu * {
+  -webkit-backface-visibility: hidden;
+}
+/* line 421, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_offcanvas.scss */
+.right-submenu .back > a {
+  padding: 0.3rem 0.9375rem;
+  color: #999999;
+  text-transform: uppercase;
+  font-weight: bold;
+  background: #444;
+  border-top: 1px solid #5e5e5e;
+  border-bottom: none;
+  margin: 0;
+}
+/* line 429, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_offcanvas.scss */
+.right-submenu .back > a:hover {
+  background: #303030;
+  border-top: 1px solid #5e5e5e;
+  border-bottom: none;
+}
+/* line 441, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_offcanvas.scss */
+.right-submenu .back > a:after {
+  content: "\BB";
+  margin-left: 0.5rem;
+  display: inline;
+}
+/* line 490, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_offcanvas.scss */
+.right-submenu.move-left {
+  -ms-transform: translate(0%, 0);
+  -webkit-transform: translate3d(0%, 0, 0);
+  -moz-transform: translate3d(0%, 0, 0);
+  -ms-transform: translate3d(0%, 0, 0);
+  -o-transform: translate3d(0%, 0, 0);
+  transform: translate3d(0%, 0, 0);
+}
+
+/* line 503, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_offcanvas.scss */
+.left-off-canvas-menu ul.off-canvas-list li.has-submenu > a:after {
+  content: "\BB";
+  margin-left: 0.5rem;
+  display: inline;
+}
+
+/* line 506, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_offcanvas.scss */
+.right-off-canvas-menu ul.off-canvas-list li.has-submenu > a:before {
+  content: "\AB";
+  margin-right: 0.5rem;
+  display: inline;
+}
+
+/* small displays */
+@media only screen {
+  /* line 244, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_visibility.scss */
+  .show-for-small-only, .show-for-small-up, .show-for-small, .show-for-small-down, .hide-for-medium-only, .hide-for-medium-up, .hide-for-medium, .show-for-medium-down, .hide-for-large-only, .hide-for-large-up, .hide-for-large, .show-for-large-down, .hide-for-xlarge-only, .hide-for-xlarge-up, .hide-for-xlarge, .show-for-xlarge-down, .hide-for-xxlarge-only, .hide-for-xxlarge-up, .hide-for-xxlarge, .show-for-xxlarge-down {
+    display: inherit !important;
+  }
+
+  /* line 247, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_visibility.scss */
+  .hide-for-small-only, .hide-for-small-up, .hide-for-small, .hide-for-small-down, .show-for-medium-only, .show-for-medium-up, .show-for-medium, .hide-for-medium-down, .show-for-large-only, .show-for-large-up, .show-for-large, .hide-for-large-down, .show-for-xlarge-only, .show-for-xlarge-up, .show-for-xlarge, .hide-for-xlarge-down, .show-for-xxlarge-only, .show-for-xxlarge-up, .show-for-xxlarge, .hide-for-xxlarge-down {
+    display: none !important;
+  }
+
+  /* line 251, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_visibility.scss */
+  .visible-for-small-only, .visible-for-small-up, .visible-for-small, .visible-for-small-down, .hidden-for-medium-only, .hidden-for-medium-up, .hidden-for-medium, .visible-for-medium-down, .hidden-for-large-only, .hidden-for-large-up, .hidden-for-large, .visible-for-large-down, .hidden-for-xlarge-only, .hidden-for-xlarge-up, .hidden-for-xlarge, .visible-for-xlarge-down, .hidden-for-xxlarge-only, .hidden-for-xxlarge-up, .hidden-for-xxlarge, .visible-for-xxlarge-down {
+    position: static !important;
+    height: auto;
+    width: auto;
+    overflow: visible;
+    clip: auto;
+  }
+
+  /* line 254, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_visibility.scss */
+  .hidden-for-small-only, .hidden-for-small-up, .hidden-for-small, .hidden-for-small-down, .visible-for-medium-only, .visible-for-medium-up, .visible-for-medium, .hidden-for-medium-down, .visible-for-large-only, .visible-for-large-up, .visible-for-large, .hidden-for-large-down, .visible-for-xlarge-only, .visible-for-xlarge-up, .visible-for-xlarge, .hidden-for-xlarge-down, .visible-for-xxlarge-only, .visible-for-xxlarge-up, .visible-for-xxlarge, .hidden-for-xxlarge-down {
+    position: absolute !important;
+    height: 1px;
+    width: 1px;
+    overflow: hidden;
+    clip: rect(1px, 1px, 1px, 1px);
+  }
+
+  /* line 259, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_visibility.scss */
+  table.show-for-small-only, table.show-for-small-up, table.show-for-small, table.show-for-small-down, table.hide-for-medium-only, table.hide-for-medium-up, table.hide-for-medium, table.show-for-medium-down, table.hide-for-large-only, table.hide-for-large-up, table.hide-for-large, table.show-for-large-down, table.hide-for-xlarge-only, table.hide-for-xlarge-up, table.hide-for-xlarge, table.show-for-xlarge-down, table.hide-for-xxlarge-only, table.hide-for-xxlarge-up, table.hide-for-xxlarge, table.show-for-xxlarge-down {
+    display: table;
+  }
+
+  /* line 262, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_visibility.scss */
+  thead.show-for-small-only, thead.show-for-small-up, thead.show-for-small, thead.show-for-small-down, thead.hide-for-medium-only, thead.hide-for-medium-up, thead.hide-for-medium, thead.show-for-medium-down, thead.hide-for-large-only, thead.hide-for-large-up, thead.hide-for-large, thead.show-for-large-down, thead.hide-for-xlarge-only, thead.hide-for-xlarge-up, thead.hide-for-xlarge, thead.show-for-xlarge-down, thead.hide-for-xxlarge-only, thead.hide-for-xxlarge-up, thead.hide-for-xxlarge, thead.show-for-xxlarge-down {
+    display: table-header-group !important;
+  }
+
+  /* line 265, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_visibility.scss */
+  tbody.show-for-small-only, tbody.show-for-small-up, tbody.show-for-small, tbody.show-for-small-down, tbody.hide-for-medium-only, tbody.hide-for-medium-up, tbody.hide-for-medium, tbody.show-for-medium-down, tbody.hide-for-large-only, tbody.hide-for-large-up, tbody.hide-for-large, tbody.show-for-large-down, tbody.hide-for-xlarge-only, tbody.hide-for-xlarge-up, tbody.hide-for-xlarge, tbody.show-for-xlarge-down, tbody.hide-for-xxlarge-only, tbody.hide-for-xxlarge-up, tbody.hide-for-xxlarge, tbody.show-for-xxlarge-down {
+    display: table-row-group !important;
+  }
+
+  /* line 268, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_visibility.scss */
+  tr.show-for-small-only, tr.show-for-small-up, tr.show-for-small, tr.show-for-small-down, tr.hide-for-medium-only, tr.hide-for-medium-up, tr.hide-for-medium, tr.show-for-medium-down, tr.hide-for-large-only, tr.hide-for-large-up, tr.hide-for-large, tr.show-for-large-down, tr.hide-for-xlarge-only, tr.hide-for-xlarge-up, tr.hide-for-xlarge, tr.show-for-xlarge-down, tr.hide-for-xxlarge-only, tr.hide-for-xxlarge-up, tr.hide-for-xxlarge, tr.show-for-xxlarge-down {
+    display: table-row !important;
+  }
+
+  /* line 271, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_visibility.scss */
+  th.show-for-small-only, td.show-for-small-only, th.show-for-small-up, td.show-for-small-up, th.show-for-small, td.show-for-small, th.show-for-small-down, td.show-for-small-down, th.hide-for-medium-only, td.hide-for-medium-only, th.hide-for-medium-up, td.hide-for-medium-up, th.hide-for-medium, td.hide-for-medium, th.show-for-medium-down, td.show-for-medium-down, th.hide-for-large-only, td.hide-for-large-only, th.hide-for-large-up, td.hide-for-large-up, th.hide-for-large, td.hide-for-large, th.show-for-large-down, td.show-for-large-down, th.hide-for-xlarge-only, td.hide-for-xlarge-only, th.hide-for-xlarge-up, td.hide-for-xlarge-up, th.hide-for-xlarge, td.hide-for-xlarge, th.show-for-xlarge-down, td.show-for-xlarge-down, th.hide-for-xxlarge-only, td.hide-for-xxlarge-only, th.hide-for-xxlarge-up, td.hide-for-xxlarge-up, th.hide-for-xxlarge, td.hide-for-xxlarge, th.show-for-xxlarge-down, td.show-for-xxlarge-down {
+    display: table-cell !important;
+  }
+}
+/* medium displays */
+@media only screen and (min-width: 40.063em) {
+  /* line 244, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_visibility.scss */
+  .hide-for-small-only, .show-for-small-up, .hide-for-small, .hide-for-small-down, .show-for-medium-only, .show-for-medium-up, .show-for-medium, .show-for-medium-down, .hide-for-large-only, .hide-for-large-up, .hide-for-large, .show-for-large-down, .hide-for-xlarge-only, .hide-for-xlarge-up, .hide-for-xlarge, .show-for-xlarge-down, .hide-for-xxlarge-only, .hide-for-xxlarge-up, .hide-for-xxlarge, .show-for-xxlarge-down {
+    display: inherit !important;
+  }
+
+  /* line 247, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_visibility.scss */
+  .show-for-small-only, .hide-for-small-up, .show-for-small, .show-for-small-down, .hide-for-medium-only, .hide-for-medium-up, .hide-for-medium, .hide-for-medium-down, .show-for-large-only, .show-for-large-up, .show-for-large, .hide-for-large-down, .show-for-xlarge-only, .show-for-xlarge-up, .show-for-xlarge, .hide-for-xlarge-down, .show-for-xxlarge-only, .show-for-xxlarge-up, .show-for-xxlarge, .hide-for-xxlarge-down {
+    display: none !important;
+  }
+
+  /* line 251, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_visibility.scss */
+  .hidden-for-small-only, .visible-for-small-up, .hidden-for-small, .hidden-for-small-down, .visible-for-medium-only, .visible-for-medium-up, .visible-for-medium, .visible-for-medium-down, .hidden-for-large-only, .hidden-for-large-up, .hidden-for-large, .visible-for-large-down, .hidden-for-xlarge-only, .hidden-for-xlarge-up, .hidden-for-xlarge, .visible-for-xlarge-down, .hidden-for-xxlarge-only, .hidden-for-xxlarge-up, .hidden-for-xxlarge, .visible-for-xxlarge-down {
+    position: static !important;
+    height: auto;
+    width: auto;
+    overflow: visible;
+    clip: auto;
+  }
+
+  /* line 254, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_visibility.scss */
+  .visible-for-small-only, .hidden-for-small-up, .visible-for-small, .visible-for-small-down, .hidden-for-medium-only, .hidden-for-medium-up, .hidden-for-medium, .hidden-for-medium-down, .visible-for-large-only, .visible-for-large-up, .visible-for-large, .hidden-for-large-down, .visible-for-xlarge-only, .visible-for-xlarge-up, .visible-for-xlarge, .hidden-for-xlarge-down, .visible-for-xxlarge-only, .visible-for-xxlarge-up, .visible-for-xxlarge, .hidden-for-xxlarge-down {
+    position: absolute !important;
+    height: 1px;
+    width: 1px;
+    overflow: hidden;
+    clip: rect(1px, 1px, 1px, 1px);
+  }
+
+  /* line 259, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_visibility.scss */
+  table.hide-for-small-only, table.show-for-small-up, table.hide-for-small, table.hide-for-small-down, table.show-for-medium-only, table.show-for-medium-up, table.show-for-medium, table.show-for-medium-down, table.hide-for-large-only, table.hide-for-large-up, table.hide-for-large, table.show-for-large-down, table.hide-for-xlarge-only, table.hide-for-xlarge-up, table.hide-for-xlarge, table.show-for-xlarge-down, table.hide-for-xxlarge-only, table.hide-for-xxlarge-up, table.hide-for-xxlarge, table.show-for-xxlarge-down {
+    display: table;
+  }
+
+  /* line 262, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_visibility.scss */
+  thead.hide-for-small-only, thead.show-for-small-up, thead.hide-for-small, thead.hide-for-small-down, thead.show-for-medium-only, thead.show-for-medium-up, thead.show-for-medium, thead.show-for-medium-down, thead.hide-for-large-only, thead.hide-for-large-up, thead.hide-for-large, thead.show-for-large-down, thead.hide-for-xlarge-only, thead.hide-for-xlarge-up, thead.hide-for-xlarge, thead.show-for-xlarge-down, thead.hide-for-xxlarge-only, thead.hide-for-xxlarge-up, thead.hide-for-xxlarge, thead.show-for-xxlarge-down {
+    display: table-header-group !important;
+  }
+
+  /* line 265, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_visibility.scss */
+  tbody.hide-for-small-only, tbody.show-for-small-up, tbody.hide-for-small, tbody.hide-for-small-down, tbody.show-for-medium-only, tbody.show-for-medium-up, tbody.show-for-medium, tbody.show-for-medium-down, tbody.hide-for-large-only, tbody.hide-for-large-up, tbody.hide-for-large, tbody.show-for-large-down, tbody.hide-for-xlarge-only, tbody.hide-for-xlarge-up, tbody.hide-for-xlarge, tbody.show-for-xlarge-down, tbody.hide-for-xxlarge-only, tbody.hide-for-xxlarge-up, tbody.hide-for-xxlarge, tbody.show-for-xxlarge-down {
+    display: table-row-group !important;
+  }
+
+  /* line 268, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_visibility.scss */
+  tr.hide-for-small-only, tr.show-for-small-up, tr.hide-for-small, tr.hide-for-small-down, tr.show-for-medium-only, tr.show-for-medium-up, tr.show-for-medium, tr.show-for-medium-down, tr.hide-for-large-only, tr.hide-for-large-up, tr.hide-for-large, tr.show-for-large-down, tr.hide-for-xlarge-only, tr.hide-for-xlarge-up, tr.hide-for-xlarge, tr.show-for-xlarge-down, tr.hide-for-xxlarge-only, tr.hide-for-xxlarge-up, tr.hide-for-xxlarge, tr.show-for-xxlarge-down {
+    display: table-row !important;
+  }
+
+  /* line 271, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_visibility.scss */
+  th.hide-for-small-only, td.hide-for-small-only, th.show-for-small-up, td.show-for-small-up, th.hide-for-small, td.hide-for-small, th.hide-for-small-down, td.hide-for-small-down, th.show-for-medium-only, td.show-for-medium-only, th.show-for-medium-up, td.show-for-medium-up, th.show-for-medium, td.show-for-medium, th.show-for-medium-down, td.show-for-medium-down, th.hide-for-large-only, td.hide-for-large-only, th.hide-for-large-up, td.hide-for-large-up, th.hide-for-large, td.hide-for-large, th.show-for-large-down, td.show-for-large-down, th.hide-for-xlarge-only, td.hide-for-xlarge-only, th.hide-for-xlarge-up, td.hide-for-xlarge-up, th.hide-for-xlarge, td.hide-for-xlarge, th.show-for-xlarge-down, td.show-for-xlarge-down, th.hide-for-xxlarge-only, td.hide-for-xxlarge-only, th.hide-for-xxlarge-up, td.hide-for-xxlarge-up, th.hide-for-xxlarge, td.hide-for-xxlarge, th.show-for-xxlarge-down, td.show-for-xxlarge-down {
+    display: table-cell !important;
+  }
+}
+/* large displays */
+@media only screen and (min-width: 64.063em) {
+  /* line 244, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_visibility.scss */
+  .hide-for-small-only, .show-for-small-up, .hide-for-small, .hide-for-small-down, .hide-for-medium-only, .show-for-medium-up, .hide-for-medium, .hide-for-medium-down, .show-for-large-only, .show-for-large-up, .show-for-large, .show-for-large-down, .hide-for-xlarge-only, .hide-for-xlarge-up, .hide-for-xlarge, .show-for-xlarge-down, .hide-for-xxlarge-only, .hide-for-xxlarge-up, .hide-for-xxlarge, .show-for-xxlarge-down {
+    display: inherit !important;
+  }
+
+  /* line 247, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_visibility.scss */
+  .show-for-small-only, .hide-for-small-up, .show-for-small, .show-for-small-down, .show-for-medium-only, .hide-for-medium-up, .show-for-medium, .show-for-medium-down, .hide-for-large-only, .hide-for-large-up, .hide-for-large, .hide-for-large-down, .show-for-xlarge-only, .show-for-xlarge-up, .show-for-xlarge, .hide-for-xlarge-down, .show-for-xxlarge-only, .show-for-xxlarge-up, .show-for-xxlarge, .hide-for-xxlarge-down {
+    display: none !important;
+  }
+
+  /* line 251, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_visibility.scss */
+  .hidden-for-small-only, .visible-for-small-up, .hidden-for-small, .hidden-for-small-down, .hidden-for-medium-only, .visible-for-medium-up, .hidden-for-medium, .hidden-for-medium-down, .visible-for-large-only, .visible-for-large-up, .visible-for-large, .visible-for-large-down, .hidden-for-xlarge-only, .hidden-for-xlarge-up, .hidden-for-xlarge, .visible-for-xlarge-down, .hidden-for-xxlarge-only, .hidden-for-xxlarge-up, .hidden-for-xxlarge, .visible-for-xxlarge-down {
+    position: static !important;
+    height: auto;
+    width: auto;
+    overflow: visible;
+    clip: auto;
+  }
+
+  /* line 254, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_visibility.scss */
+  .visible-for-small-only, .hidden-for-small-up, .visible-for-small, .visible-for-small-down, .visible-for-medium-only, .hidden-for-medium-up, .visible-for-medium, .visible-for-medium-down, .hidden-for-large-only, .hidden-for-large-up, .hidden-for-large, .hidden-for-large-down, .visible-for-xlarge-only, .visible-for-xlarge-up, .visible-for-xlarge, .hidden-for-xlarge-down, .visible-for-xxlarge-only, .visible-for-xxlarge-up, .visible-for-xxlarge, .hidden-for-xxlarge-down {
+    position: absolute !important;
+    height: 1px;
+    width: 1px;
+    overflow: hidden;
+    clip: rect(1px, 1px, 1px, 1px);
+  }
+
+  /* line 259, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_visibility.scss */
+  table.hide-for-small-only, table.show-for-small-up, table.hide-for-small, table.hide-for-small-down, table.hide-for-medium-only, table.show-for-medium-up, table.hide-for-medium, table.hide-for-medium-down, table.show-for-large-only, table.show-for-large-up, table.show-for-large, table.show-for-large-down, table.hide-for-xlarge-only, table.hide-for-xlarge-up, table.hide-for-xlarge, table.show-for-xlarge-down, table.hide-for-xxlarge-only, table.hide-for-xxlarge-up, table.hide-for-xxlarge, table.show-for-xxlarge-down {
+    display: table;
+  }
+
+  /* line 262, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_visibility.scss */
+  thead.hide-for-small-only, thead.show-for-small-up, thead.hide-for-small, thead.hide-for-small-down, thead.hide-for-medium-only, thead.show-for-medium-up, thead.hide-for-medium, thead.hide-for-medium-down, thead.show-for-large-only, thead.show-for-large-up, thead.show-for-large, thead.show-for-large-down, thead.hide-for-xlarge-only, thead.hide-for-xlarge-up, thead.hide-for-xlarge, thead.show-for-xlarge-down, thead.hide-for-xxlarge-only, thead.hide-for-xxlarge-up, thead.hide-for-xxlarge, thead.show-for-xxlarge-down {
+    display: table-header-group !important;
+  }
+
+  /* line 265, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_visibility.scss */
+  tbody.hide-for-small-only, tbody.show-for-small-up, tbody.hide-for-small, tbody.hide-for-small-down, tbody.hide-for-medium-only, tbody.show-for-medium-up, tbody.hide-for-medium, tbody.hide-for-medium-down, tbody.show-for-large-only, tbody.show-for-large-up, tbody.show-for-large, tbody.show-for-large-down, tbody.hide-for-xlarge-only, tbody.hide-for-xlarge-up, tbody.hide-for-xlarge, tbody.show-for-xlarge-down, tbody.hide-for-xxlarge-only, tbody.hide-for-xxlarge-up, tbody.hide-for-xxlarge, tbody.show-for-xxlarge-down {
+    display: table-row-group !important;
+  }
+
+  /* line 268, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_visibility.scss */
+  tr.hide-for-small-only, tr.show-for-small-up, tr.hide-for-small, tr.hide-for-small-down, tr.hide-for-medium-only, tr.show-for-medium-up, tr.hide-for-medium, tr.hide-for-medium-down, tr.show-for-large-only, tr.show-for-large-up, tr.show-for-large, tr.show-for-large-down, tr.hide-for-xlarge-only, tr.hide-for-xlarge-up, tr.hide-for-xlarge, tr.show-for-xlarge-down, tr.hide-for-xxlarge-only, tr.hide-for-xxlarge-up, tr.hide-for-xxlarge, tr.show-for-xxlarge-down {
+    display: table-row !important;
+  }
+
+  /* line 271, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_visibility.scss */
+  th.hide-for-small-only, td.hide-for-small-only, th.show-for-small-up, td.show-for-small-up, th.hide-for-small, td.hide-for-small, th.hide-for-small-down, td.hide-for-small-down, th.hide-for-medium-only, td.hide-for-medium-only, th.show-for-medium-up, td.show-for-medium-up, th.hide-for-medium, td.hide-for-medium, th.hide-for-medium-down, td.hide-for-medium-down, th.show-for-large-only, td.show-for-large-only, th.show-for-large-up, td.show-for-large-up, th.show-for-large, td.show-for-large, th.show-for-large-down, td.show-for-large-down, th.hide-for-xlarge-only, td.hide-for-xlarge-only, th.hide-for-xlarge-up, td.hide-for-xlarge-up, th.hide-for-xlarge, td.hide-for-xlarge, th.show-for-xlarge-down, td.show-for-xlarge-down, th.hide-for-xxlarge-only, td.hide-for-xxlarge-only, th.hide-for-xxlarge-up, td.hide-for-xxlarge-up, th.hide-for-xxlarge, td.hide-for-xxlarge, th.show-for-xxlarge-down, td.show-for-xxlarge-down {
+    display: table-cell !important;
+  }
+}
+/* xlarge displays */
+@media only screen and (min-width: 90.063em) {
+  /* line 244, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_visibility.scss */
+  .hide-for-small-only, .show-for-small-up, .hide-for-small, .hide-for-small-down, .hide-for-medium-only, .show-for-medium-up, .hide-for-medium, .hide-for-medium-down, .hide-for-large-only, .show-for-large-up, .hide-for-large, .hide-for-large-down, .show-for-xlarge-only, .show-for-xlarge-up, .show-for-xlarge, .show-for-xlarge-down, .hide-for-xxlarge-only, .hide-for-xxlarge-up, .hide-for-xxlarge, .show-for-xxlarge-down {
+    display: inherit !important;
+  }
+
+  /* line 247, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_visibility.scss */
+  .show-for-small-only, .hide-for-small-up, .show-for-small, .show-for-small-down, .show-for-medium-only, .hide-for-medium-up, .show-for-medium, .show-for-medium-down, .show-for-large-only, .hide-for-large-up, .show-for-large, .show-for-large-down, .hide-for-xlarge-only, .hide-for-xlarge-up, .hide-for-xlarge, .hide-for-xlarge-down, .show-for-xxlarge-only, .show-for-xxlarge-up, .show-for-xxlarge, .hide-for-xxlarge-down {
+    display: none !important;
+  }
+
+  /* line 251, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_visibility.scss */
+  .hidden-for-small-only, .visible-for-small-up, .hidden-for-small, .hidden-for-small-down, .hidden-for-medium-only, .visible-for-medium-up, .hidden-for-medium, .hidden-for-medium-down, .hidden-for-large-only, .visible-for-large-up, .hidden-for-large, .hidden-for-large-down, .visible-for-xlarge-only, .visible-for-xlarge-up, .visible-for-xlarge, .visible-for-xlarge-down, .hidden-for-xxlarge-only, .hidden-for-xxlarge-up, .hidden-for-xxlarge, .visible-for-xxlarge-down {
+    position: static !important;
+    height: auto;
+    width: auto;
+    overflow: visible;
+    clip: auto;
+  }
+
+  /* line 254, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_visibility.scss */
+  .visible-for-small-only, .hidden-for-small-up, .visible-for-small, .visible-for-small-down, .visible-for-medium-only, .hidden-for-medium-up, .visible-for-medium, .visible-for-medium-down, .visible-for-large-only, .hidden-for-large-up, .visible-for-large, .visible-for-large-down, .hidden-for-xlarge-only, .hidden-for-xlarge-up, .hidden-for-xlarge, .hidden-for-xlarge-down, .visible-for-xxlarge-only, .visible-for-xxlarge-up, .visible-for-xxlarge, .hidden-for-xxlarge-down {
+    position: absolute !important;
+    height: 1px;
+    width: 1px;
+    overflow: hidden;
+    clip: rect(1px, 1px, 1px, 1px);
+  }
+
+  /* line 259, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_visibility.scss */
+  table.hide-for-small-only, table.show-for-small-up, table.hide-for-small, table.hide-for-small-down, table.hide-for-medium-only, table.show-for-medium-up, table.hide-for-medium, table.hide-for-medium-down, table.hide-for-large-only, table.show-for-large-up, table.hide-for-large, table.hide-for-large-down, table.show-for-xlarge-only, table.show-for-xlarge-up, table.show-for-xlarge, table.show-for-xlarge-down, table.hide-for-xxlarge-only, table.hide-for-xxlarge-up, table.hide-for-xxlarge, table.show-for-xxlarge-down {
+    display: table;
+  }
+
+  /* line 262, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_visibility.scss */
+  thead.hide-for-small-only, thead.show-for-small-up, thead.hide-for-small, thead.hide-for-small-down, thead.hide-for-medium-only, thead.show-for-medium-up, thead.hide-for-medium, thead.hide-for-medium-down, thead.hide-for-large-only, thead.show-for-large-up, thead.hide-for-large, thead.hide-for-large-down, thead.show-for-xlarge-only, thead.show-for-xlarge-up, thead.show-for-xlarge, thead.show-for-xlarge-down, thead.hide-for-xxlarge-only, thead.hide-for-xxlarge-up, thead.hide-for-xxlarge, thead.show-for-xxlarge-down {
+    display: table-header-group !important;
+  }
+
+  /* line 265, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_visibility.scss */
+  tbody.hide-for-small-only, tbody.show-for-small-up, tbody.hide-for-small, tbody.hide-for-small-down, tbody.hide-for-medium-only, tbody.show-for-medium-up, tbody.hide-for-medium, tbody.hide-for-medium-down, tbody.hide-for-large-only, tbody.show-for-large-up, tbody.hide-for-large, tbody.hide-for-large-down, tbody.show-for-xlarge-only, tbody.show-for-xlarge-up, tbody.show-for-xlarge, tbody.show-for-xlarge-down, tbody.hide-for-xxlarge-only, tbody.hide-for-xxlarge-up, tbody.hide-for-xxlarge, tbody.show-for-xxlarge-down {
+    display: table-row-group !important;
+  }
+
+  /* line 268, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_visibility.scss */
+  tr.hide-for-small-only, tr.show-for-small-up, tr.hide-for-small, tr.hide-for-small-down, tr.hide-for-medium-only, tr.show-for-medium-up, tr.hide-for-medium, tr.hide-for-medium-down, tr.hide-for-large-only, tr.show-for-large-up, tr.hide-for-large, tr.hide-for-large-down, tr.show-for-xlarge-only, tr.show-for-xlarge-up, tr.show-for-xlarge, tr.show-for-xlarge-down, tr.hide-for-xxlarge-only, tr.hide-for-xxlarge-up, tr.hide-for-xxlarge, tr.show-for-xxlarge-down {
+    display: table-row !important;
+  }
+
+  /* line 271, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_visibility.scss */
+  th.hide-for-small-only, td.hide-for-small-only, th.show-for-small-up, td.show-for-small-up, th.hide-for-small, td.hide-for-small, th.hide-for-small-down, td.hide-for-small-down, th.hide-for-medium-only, td.hide-for-medium-only, th.show-for-medium-up, td.show-for-medium-up, th.hide-for-medium, td.hide-for-medium, th.hide-for-medium-down, td.hide-for-medium-down, th.hide-for-large-only, td.hide-for-large-only, th.show-for-large-up, td.show-for-large-up, th.hide-for-large, td.hide-for-large, th.hide-for-large-down, td.hide-for-large-down, th.show-for-xlarge-only, td.show-for-xlarge-only, th.show-for-xlarge-up, td.show-for-xlarge-up, th.show-for-xlarge, td.show-for-xlarge, th.show-for-xlarge-down, td.show-for-xlarge-down, th.hide-for-xxlarge-only, td.hide-for-xxlarge-only, th.hide-for-xxlarge-up, td.hide-for-xxlarge-up, th.hide-for-xxlarge, td.hide-for-xxlarge, th.show-for-xxlarge-down, td.show-for-xxlarge-down {
+    display: table-cell !important;
+  }
+}
+/* xxlarge displays */
+@media only screen and (min-width: 120.063em) {
+  /* line 244, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_visibility.scss */
+  .hide-for-small-only, .show-for-small-up, .hide-for-small, .hide-for-small-down, .hide-for-medium-only, .show-for-medium-up, .hide-for-medium, .hide-for-medium-down, .hide-for-large-only, .show-for-large-up, .hide-for-large, .hide-for-large-down, .hide-for-xlarge-only, .show-for-xlarge-up, .hide-for-xlarge, .hide-for-xlarge-down, .show-for-xxlarge-only, .show-for-xxlarge-up, .show-for-xxlarge, .show-for-xxlarge-down {
+    display: inherit !important;
+  }
+
+  /* line 247, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_visibility.scss */
+  .show-for-small-only, .hide-for-small-up, .show-for-small, .show-for-small-down, .show-for-medium-only, .hide-for-medium-up, .show-for-medium, .show-for-medium-down, .show-for-large-only, .hide-for-large-up, .show-for-large, .show-for-large-down, .show-for-xlarge-only, .hide-for-xlarge-up, .show-for-xlarge, .show-for-xlarge-down, .hide-for-xxlarge-only, .hide-for-xxlarge-up, .hide-for-xxlarge, .hide-for-xxlarge-down {
+    display: none !important;
+  }
+
+  /* line 251, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_visibility.scss */
+  .hidden-for-small-only, .visible-for-small-up, .hidden-for-small, .hidden-for-small-down, .hidden-for-medium-only, .visible-for-medium-up, .hidden-for-medium, .hidden-for-medium-down, .hidden-for-large-only, .visible-for-large-up, .hidden-for-large, .hidden-for-large-down, .hidden-for-xlarge-only, .visible-for-xlarge-up, .hidden-for-xlarge, .hidden-for-xlarge-down, .visible-for-xxlarge-only, .visible-for-xxlarge-up, .visible-for-xxlarge, .visible-for-xxlarge-down {
+    position: static !important;
+    height: auto;
+    width: auto;
+    overflow: visible;
+    clip: auto;
+  }
+
+  /* line 254, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_visibility.scss */
+  .visible-for-small-only, .hidden-for-small-up, .visible-for-small, .visible-for-small-down, .visible-for-medium-only, .hidden-for-medium-up, .visible-for-medium, .visible-for-medium-down, .visible-for-large-only, .hidden-for-large-up, .visible-for-large, .visible-for-large-down, .visible-for-xlarge-only, .hidden-for-xlarge-up, .visible-for-xlarge, .visible-for-xlarge-down, .hidden-for-xxlarge-only, .hidden-for-xxlarge-up, .hidden-for-xxlarge, .hidden-for-xxlarge-down {
+    position: absolute !important;
+    height: 1px;
+    width: 1px;
+    overflow: hidden;
+    clip: rect(1px, 1px, 1px, 1px);
+  }
+
+  /* line 259, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_visibility.scss */
+  table.hide-for-small-only, table.show-for-small-up, table.hide-for-small, table.hide-for-small-down, table.hide-for-medium-only, table.show-for-medium-up, table.hide-for-medium, table.hide-for-medium-down, table.hide-for-large-only, table.show-for-large-up, table.hide-for-large, table.hide-for-large-down, table.hide-for-xlarge-only, table.show-for-xlarge-up, table.hide-for-xlarge, table.hide-for-xlarge-down, table.show-for-xxlarge-only, table.show-for-xxlarge-up, table.show-for-xxlarge, table.show-for-xxlarge-down {
+    display: table;
+  }
+
+  /* line 262, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_visibility.scss */
+  thead.hide-for-small-only, thead.show-for-small-up, thead.hide-for-small, thead.hide-for-small-down, thead.hide-for-medium-only, thead.show-for-medium-up, thead.hide-for-medium, thead.hide-for-medium-down, thead.hide-for-large-only, thead.show-for-large-up, thead.hide-for-large, thead.hide-for-large-down, thead.hide-for-xlarge-only, thead.show-for-xlarge-up, thead.hide-for-xlarge, thead.hide-for-xlarge-down, thead.show-for-xxlarge-only, thead.show-for-xxlarge-up, thead.show-for-xxlarge, thead.show-for-xxlarge-down {
+    display: table-header-group !important;
+  }
+
+  /* line 265, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_visibility.scss */
+  tbody.hide-for-small-only, tbody.show-for-small-up, tbody.hide-for-small, tbody.hide-for-small-down, tbody.hide-for-medium-only, tbody.show-for-medium-up, tbody.hide-for-medium, tbody.hide-for-medium-down, tbody.hide-for-large-only, tbody.show-for-large-up, tbody.hide-for-large, tbody.hide-for-large-down, tbody.hide-for-xlarge-only, tbody.show-for-xlarge-up, tbody.hide-for-xlarge, tbody.hide-for-xlarge-down, tbody.show-for-xxlarge-only, tbody.show-for-xxlarge-up, tbody.show-for-xxlarge, tbody.show-for-xxlarge-down {
+    display: table-row-group !important;
+  }
+
+  /* line 268, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_visibility.scss */
+  tr.hide-for-small-only, tr.show-for-small-up, tr.hide-for-small, tr.hide-for-small-down, tr.hide-for-medium-only, tr.show-for-medium-up, tr.hide-for-medium, tr.hide-for-medium-down, tr.hide-for-large-only, tr.show-for-large-up, tr.hide-for-large, tr.hide-for-large-down, tr.hide-for-xlarge-only, tr.show-for-xlarge-up, tr.hide-for-xlarge, tr.hide-for-xlarge-down, tr.show-for-xxlarge-only, tr.show-for-xxlarge-up, tr.show-for-xxlarge, tr.show-for-xxlarge-down {
+    display: table-row !important;
+  }
+
+  /* line 271, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_visibility.scss */
+  th.hide-for-small-only, td.hide-for-small-only, th.show-for-small-up, td.show-for-small-up, th.hide-for-small, td.hide-for-small, th.hide-for-small-down, td.hide-for-small-down, th.hide-for-medium-only, td.hide-for-medium-only, th.show-for-medium-up, td.show-for-medium-up, th.hide-for-medium, td.hide-for-medium, th.hide-for-medium-down, td.hide-for-medium-down, th.hide-for-large-only, td.hide-for-large-only, th.show-for-large-up, td.show-for-large-up, th.hide-for-large, td.hide-for-large, th.hide-for-large-down, td.hide-for-large-down, th.hide-for-xlarge-only, td.hide-for-xlarge-only, th.show-for-xlarge-up, td.show-for-xlarge-up, th.hide-for-xlarge, td.hide-for-xlarge, th.hide-for-xlarge-down, td.hide-for-xlarge-down, th.show-for-xxlarge-only, td.show-for-xxlarge-only, th.show-for-xxlarge-up, td.show-for-xxlarge-up, th.show-for-xxlarge, td.show-for-xxlarge, th.show-for-xxlarge-down, td.show-for-xxlarge-down {
+    display: table-cell !important;
+  }
+}
+/* Orientation targeting */
+/* line 285, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_visibility.scss */
+.show-for-landscape,
+.hide-for-portrait {
+  display: inherit !important;
+}
+
+/* line 287, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_visibility.scss */
+.hide-for-landscape,
+.show-for-portrait {
+  display: none !important;
+}
+
+/* Specific visibility for tables */
+/* line 292, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_visibility.scss */
+table.hide-for-landscape, table.show-for-portrait {
+  display: table;
+}
+
+/* line 296, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_visibility.scss */
+thead.hide-for-landscape, thead.show-for-portrait {
+  display: table-header-group !important;
+}
+
+/* line 300, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_visibility.scss */
+tbody.hide-for-landscape, tbody.show-for-portrait {
+  display: table-row-group !important;
+}
+
+/* line 304, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_visibility.scss */
+tr.hide-for-landscape, tr.show-for-portrait {
+  display: table-row !important;
+}
+
+/* line 309, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_visibility.scss */
+td.hide-for-landscape, td.show-for-portrait,
+th.hide-for-landscape,
+th.show-for-portrait {
+  display: table-cell !important;
+}
+
+@media only screen and (orientation: landscape) {
+  /* line 314, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_visibility.scss */
+  .show-for-landscape,
+  .hide-for-portrait {
+    display: inherit !important;
+  }
+
+  /* line 316, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_visibility.scss */
+  .hide-for-landscape,
+  .show-for-portrait {
+    display: none !important;
+  }
+
+  /* Specific visibility for tables */
+  /* line 321, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_visibility.scss */
+  table.show-for-landscape, table.hide-for-portrait {
+    display: table;
+  }
+
+  /* line 325, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_visibility.scss */
+  thead.show-for-landscape, thead.hide-for-portrait {
+    display: table-header-group !important;
+  }
+
+  /* line 329, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_visibility.scss */
+  tbody.show-for-landscape, tbody.hide-for-portrait {
+    display: table-row-group !important;
+  }
+
+  /* line 333, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_visibility.scss */
+  tr.show-for-landscape, tr.hide-for-portrait {
+    display: table-row !important;
+  }
+
+  /* line 338, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_visibility.scss */
+  td.show-for-landscape, td.hide-for-portrait,
+  th.show-for-landscape,
+  th.hide-for-portrait {
+    display: table-cell !important;
+  }
+}
+@media only screen and (orientation: portrait) {
+  /* line 344, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_visibility.scss */
+  .show-for-portrait,
+  .hide-for-landscape {
+    display: inherit !important;
+  }
+
+  /* line 346, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_visibility.scss */
+  .hide-for-portrait,
+  .show-for-landscape {
+    display: none !important;
+  }
+
+  /* Specific visibility for tables */
+  /* line 351, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_visibility.scss */
+  table.show-for-portrait, table.hide-for-landscape {
+    display: table;
+  }
+
+  /* line 355, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_visibility.scss */
+  thead.show-for-portrait, thead.hide-for-landscape {
+    display: table-header-group !important;
+  }
+
+  /* line 359, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_visibility.scss */
+  tbody.show-for-portrait, tbody.hide-for-landscape {
+    display: table-row-group !important;
+  }
+
+  /* line 363, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_visibility.scss */
+  tr.show-for-portrait, tr.hide-for-landscape {
+    display: table-row !important;
+  }
+
+  /* line 368, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_visibility.scss */
+  td.show-for-portrait, td.hide-for-landscape,
+  th.show-for-portrait,
+  th.hide-for-landscape {
+    display: table-cell !important;
+  }
+}
+/* Touch-enabled device targeting */
+/* line 374, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_visibility.scss */
+.show-for-touch {
+  display: none !important;
+}
+
+/* line 375, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_visibility.scss */
+.hide-for-touch {
+  display: inherit !important;
+}
+
+/* line 376, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_visibility.scss */
+.touch .show-for-touch {
+  display: inherit !important;
+}
+
+/* line 377, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_visibility.scss */
+.touch .hide-for-touch {
+  display: none !important;
+}
+
+/* Specific visibility for tables */
+/* line 380, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_visibility.scss */
+table.hide-for-touch {
+  display: table;
+}
+
+/* line 381, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_visibility.scss */
+.touch table.show-for-touch {
+  display: table;
+}
+
+/* line 382, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_visibility.scss */
+thead.hide-for-touch {
+  display: table-header-group !important;
+}
+
+/* line 383, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_visibility.scss */
+.touch thead.show-for-touch {
+  display: table-header-group !important;
+}
+
+/* line 384, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_visibility.scss */
+tbody.hide-for-touch {
+  display: table-row-group !important;
+}
+
+/* line 385, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_visibility.scss */
+.touch tbody.show-for-touch {
+  display: table-row-group !important;
+}
+
+/* line 386, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_visibility.scss */
+tr.hide-for-touch {
+  display: table-row !important;
+}
+
+/* line 387, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_visibility.scss */
+.touch tr.show-for-touch {
+  display: table-row !important;
+}
+
+/* line 388, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_visibility.scss */
+td.hide-for-touch {
+  display: table-cell !important;
+}
+
+/* line 389, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_visibility.scss */
+.touch td.show-for-touch {
+  display: table-cell !important;
+}
+
+/* line 390, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_visibility.scss */
+th.hide-for-touch {
+  display: table-cell !important;
+}
+
+/* line 391, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_visibility.scss */
+.touch th.show-for-touch {
+  display: table-cell !important;
+}
+
+/* Print visibility */
+@media print {
+  /* line 396, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_visibility.scss */
+  .show-for-print {
+    display: block;
+  }
+
+  /* line 397, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_visibility.scss */
+  .hide-for-print {
+    display: none;
+  }
+
+  /* line 399, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_visibility.scss */
+  table.show-for-print {
+    display: table;
+  }
+
+  /* line 400, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_visibility.scss */
+  thead.show-for-print {
+    display: table-header-group !important;
+  }
+
+  /* line 401, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_visibility.scss */
+  tbody.show-for-print {
+    display: table-row-group !important;
+  }
+
+  /* line 402, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_visibility.scss */
+  tr.show-for-print {
+    display: table-row !important;
+  }
+
+  /* line 403, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_visibility.scss */
+  td.show-for-print {
+    display: table-cell !important;
+  }
+
+  /* line 404, /Users/hanaa/.rvm/gems/ruby-2.2.1/gems/foundation-rails-5.4.3.1/vendor/assets/stylesheets/foundation/components/_visibility.scss */
+  th.show-for-print {
+    display: table-cell !important;
+  }
+}

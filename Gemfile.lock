@@ -209,6 +209,8 @@ GEM
       mini_portile2 (~> 2.0.0.rc2)
     oj (2.14.0)
     orm_adapter (0.5.0)
+    pg (0.17.1)
+    pg (0.17.1-x86-mingw32)
     rabl (0.11.7)
       activesupport (>= 2.3.14)
     rack (1.5.5)
@@ -224,6 +226,11 @@ GEM
       bundler (>= 1.3.0, < 2.0)
       railties (= 4.1.8)
       sprockets-rails (~> 2.0)
+    rails_12factor (0.0.3)
+      rails_serve_static_assets
+      rails_stdout_logging
+    rails_serve_static_assets (0.0.4)
+    rails_stdout_logging (0.0.4)
     railties (4.1.8)
       actionpack (= 4.1.8)
       activesupport (= 4.1.8)
@@ -298,8 +305,10 @@ DEPENDENCIES
   kaminari
   nokogiri
   oj
+  pg (= 0.17.1)
   rabl
   rails (= 4.1.8)
+  rails_12factor
   responders
   rmagick
   rocket_pants
