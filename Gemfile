@@ -1,5 +1,7 @@
 source 'https://rubygems.org'
 
+ruby '2.2.1'
+
 gem 'nokogiri'
 
 gem 'foundation-rails', '5.4.3.1'
